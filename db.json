@@ -2,309 +2,45 @@
   "categories": [
     {
       "id": 1,
-      "name": "Hạt cho mèo",
+      "name": "Handmade Rubber Table",
       "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
     },
     {
       "id": 2,
-      "name": "Pate cho mèo",
+      "name": "Gorgeous Bronze Shoes",
       "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
     },
     {
       "id": 3,
-      "name": "Súp thưởng cho mèo",
+      "name": "Electronic Metal Mouse",
       "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
     },
     {
       "id": 4,
-      "name": "Sữa cho mèo",
+      "name": "Unbranded Fresh Hat",
       "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
     },
     {
       "id": 5,
-      "name": "Xúc xích cho mèo",
+      "name": "Incredible Concrete Table",
       "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
     },
     {
       "id": 6,
-      "name": "Bánh thưởng cho mèo",
+      "name": "Gorgeous Granite Chair",
       "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
     },
     {
       "id": 7,
-      "name": "Dinh dưỡng cho mèo",
+      "name": "Unbranded Plastic Shirt",
       "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
     },
     {
       "id": 8,
-      "name": "Cỏ cho mèo",
+      "name": "Incredible Wooden Pizza",
       "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
     }
   ],
-  "products": [
-    {
-      "id": 1,
-      "name": "Licensed Plastic Computer",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Small Granite Pizza",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Incredible Wooden Keyboard",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Bespoke Plastic Computer",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Bespoke Soft Shirt",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Recycled Granite Fish",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Unbranded Granite Gloves",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 8,
-      "name": "Fantastic Fresh Bike",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 9,
-      "name": "Unbranded Wooden Sausages",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 10,
-      "name": "Oriental Steel Chicken",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 11,
-      "name": "Incredible Fresh Cheese",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 12,
-      "name": "Small Rubber Bike",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 13,
-      "name": "Tasty Frozen Hat",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 14,
-      "name": "Tasty Cotton Soap",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 15,
-      "name": "Awesome Bronze Shoes",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 16,
-      "name": "Sleek Wooden Hat",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 17,
-      "name": "Ergonomic Cotton Keyboard",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 18,
-      "name": "Luxurious Metal Chair",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 19,
-      "name": "Awesome Bronze Gloves",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 20,
-      "name": "Elegant Granite Hat",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 21,
-      "name": "Awesome Bronze Gloves",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 22,
-      "name": "Handcrafted Bronze Mouse",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 23,
-      "name": "Awesome Rubber Keyboard",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 24,
-      "name": "Oriental Wooden Sausages",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 25,
-      "name": "Modern Wooden Chips",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 26,
-      "name": "Handcrafted Steel Pants",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 27,
-      "name": "Elegant Cotton Ball",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 28,
-      "name": "Sleek Concrete Bike",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 29,
-      "name": "Handmade Steel Shirt",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "id": 30,
-      "name": "Sleek Steel Chicken",
-      "image": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-300x300.jpg"
-    },
-    {
-      "createdAt": 1731073281397,
-      "id": 31
-    }
-  ],
-  "foods": [
-    {
-      "id": 1,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Electronic Plastic Pants",
-      "price": "454.69",
-      "rating": 1.3,
-      "category": "Dinh dưỡng cho mèo",
-      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Generic Cotton Hat",
-      "price": "428.70",
-      "rating": 4,
-      "category": "Dinh dưỡng cho mèo",
-      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Incredible Concrete Chips",
-      "price": "530.99",
-      "rating": 3.5,
-      "category": "Cỏ cho mèo",
-      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Gorgeous Plastic Chair",
-      "price": "189.45",
-      "rating": 1.5,
-      "category": "Bánh thưởng cho mèo",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Bespoke Fresh Computer",
-      "price": "399.05",
-      "rating": 1.3,
-      "category": "Hạt cho mèo",
-      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    },
-    {
-      "id": 6,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Handmade Granite Gloves",
-      "price": "942.79",
-      "rating": 3.5,
-      "category": "Cỏ cho mèo",
-      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Practical Cotton Bike",
-      "price": "864.29",
-      "rating": 3.4,
-      "category": "Dinh dưỡng cho mèo",
-      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    },
-    {
-      "id": 8,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Awesome Soft Bacon",
-      "price": "502.06",
-      "rating": 3.3,
-      "category": "Xúc xích cho mèo",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    },
-    {
-      "id": 9,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Handmade Steel Bacon",
-      "price": "43.05",
-      "rating": 3,
-      "category": "Cỏ cho mèo",
-      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    },
-    {
-      "id": 10,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Recycled Bronze Table",
-      "price": "377.95",
-      "rating": 1.6,
-      "category": "Cỏ cho mèo",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    },
-    {
-      "id": 11,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Recycled Bronze Table",
-      "price": "377.95",
-      "rating": 1.6,
-      "category": "Cỏ cho mèo",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    },
-    {
-      "id": 12,
-      "name": "Thức ăn cho mèo con ROYAL CANIN Kitten Recycled Bronze Table",
-      "price": "377.95",
-      "rating": 1.6,
-      "category": "Cỏ cho mèo",
-      "description": "The Football Is Good For Training And Recreational Purposes",
-      "image": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten1-400x400.jpg"
-    }
-  ]
+  "products": [],
+  "productDetails": []
 }
