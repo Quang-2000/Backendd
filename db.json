@@ -127,1608 +127,933 @@
     {
       "categoryId": 1,
       "id": 11,
-      "name": "Blue Buffalo Indoor Health Chicken & Brown Rice",
-      "img": "https://example.com/images/blue-buffalo-indoor.jpg",
-      "price": 320000,
+      "name": "Thức ăn cho mèo mẹ và mèo con CATIDEA Fairy Chef Mother & Baby",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-me-va-meo-con-catidea-fairy-chef-mother-baby.jpg",
+      "price": 320.000,
       "rating": 4.7
     },
     {
       "categoryId": 1,
       "id": 12,
-      "name": "Nutro Max Cat Adult Chicken & Liver",
-      "img": "https://example.com/images/nutro-max.jpg",
-      "price": 270000,
-      "rating": 4.4
+      "name": "Thức ăn cho mèo giúp loại bỏ búi lông ZENITH Cat Hairball",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/zenith-cat-hairball.jpg",
+      "price": 270.000,
+      "rating": 5.0
     },
     {
       "categoryId": 1,
       "id": 13,
-      "name": "Natural Balance L.I.D. Limited Ingredient Diets",
-      "img": "https://example.com/images/natural-balance.jpg",
-      "price": 380000,
-      "rating": 4.3
+      "name": "Thức ăn cho mèo mọi lứa tuổi CATIDEA Basic Meat All Age",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-moi-lua-tuoi-catidea-basic-meat-all-age.jpg",
+      "price": 540.000,
+      "rating": 4.5
     },
     {
       "categoryId": 1,
       "id": 14,
-      "name": "Solid Gold Leaping Waters with Cold Water Salmon & Vegetable",
-      "img": "https://example.com/images/solid-gold-leaping.jpg",
-      "price": 420000,
+      "name": "Thức ăn sấy khô cho mèo thịt thật CATIDEA Fairy Chef Freeze Dried Raw",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/03/banh-thuong-cho-meo-thit-that-fairy-chef-freeze-dried-raw-6in1.jpg",
+      "price": 155.000,
       "rating": 4.6
     },
     {
       "categoryId": 1,
       "id": 15,
-      "name": "Royal Canin Siamese Adult Cat Food",
-      "img": "https://example.com/images/royal-canin-siamese.jpg",
-      "price": 360000,
+      "name": "Thức ăn cho mèo mọi lứa tuổi CATIDEA Basic Meat Freeze Dried",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-catidea-basic-meat-freeze-dried.jpg",
+      "price": 580.000,
       "rating": 4.7
     },
     {
       "categoryId": 1,
       "id": 16,
-      "name": "Hill's Ideal Balance Adult Chicken & Brown Rice",
-      "img": "https://example.com/images/hills-ideal-balance.jpg",
-      "price": 310000,
+      "name": "Thức ăn cho mèo NATURAL CORE Bene Chicken Salmon",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/05/thuc-an-cho-meo-natural-core-bene-chicken-salmon.jpg",
+      "price": 250.000,
       "rating": 4.5
     },
     {
       "categoryId": 1,
       "id": 17,
-      "name": "Orijen Six Fish Cat Food",
-      "img": "https://example.com/images/orijen-six-fish.jpg",
-      "price": 650000,
+      "name": "Thức ăn cho mèo mẹ và mèo con CATIDEA Basic Meat Kittens",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-me-va-meo-con-catidea-basic-meat-kitten.jpg",
+      "price": 650.000,
       "rating": 4.8
     },
     {
       "categoryId": 1,
       "id": 18,
-      "name": "Canidae PURE Limited Ingredient Diet Salmon & Sweet Potato",
-      "img": "https://example.com/images/canidae-pure.jpg",
-      "price": 430000,
+      "name": "Thức ăn cho mèo hữu cơ đa đạm NATURAL CORE Multi Protein Recipe",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/05/thuc-an-cho-meo-huu-co-da-dam-natural-core-multi-protein-recipe.jpg",
+      "price": 160.000,
       "rating": 4.6
     },
     {
       "categoryId": 1,
       "id": 19,
-      "name": "Purina Cat Chow Naturals with Real Chicken",
-      "img": "https://example.com/images/purina-naturals.jpg",
-      "price": 180000,
-      "rating": 4.2
+      "name": "Thức ăn cho mèo con NATURAL CORE Bene Kitten Multi Protein",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/05/thuc-an-cho-meo-con-natural-core-kitten-multi-protein.jpg",
+      "price": 320.000,
+      "rating": 4.5
     },
     {
       "categoryId": 1,
       "id": 20,
-      "name": "Nutro Wholesome Essentials Indoor Salmon & Brown Rice",
-      "img": "https://example.com/images/nutro-wholesome.jpg",
-      "price": 290000,
-      "rating": 4.4
+      "name": "Thức ăn cho mèo đẹp lông vị cá hồi PURINA PRO PLAN Fussy Beauty",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/08/thuc-an-cho-meo-dep-long-vi-ca-hoi-purina-pro-plan-fussy-beauty.jpg",
+      "price": 525.000,
+      "rating": 4.9
     },
     {
       "categoryId": 1,
       "id": 21,
-      "name": "Nature's Logic Feline Chicken Meal Feast",
-      "img": "https://example.com/images/natures-logic.jpg",
-      "price": 520000,
+      "name": "Thức ăn cho mèo vị cá hồi cá ngừ PURINA PRO PLAN Sensitive Skin Stomach",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/08/thuc-an-cho-meo-vi-ca-hoi-ca-ngu-purina-pro-plan-sensitive-skin-stomach.jpg",
+      "price": 520.000,
       "rating": 4.7
     },
     {
       "categoryId": 1,
       "id": 22,
-      "name": "Ziwi Peak Air-Dried Mackerel & Lamb",
-      "img": "https://example.com/images/ziwi-peak.jpg",
-      "price": 800000,
+      "name": "Thức ăn cho mèo vị thịt gà PURINA PRO PLAN Adult Chicken Formula",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/08/thuc-an-cho-meo-vi-thit-ga-purina-pro-plan-adult-chicken-formula.jpg",
+      "price": 400.000,
       "rating": 4.9
     },
     {
       "categoryId": 1,
       "id": 23,
-      "name": "Instinct Raw Boost Mixers High-Protein",
-      "img": "https://example.com/images/instinct-raw-boost.jpg",
+      "name": "Thức ăn cho mèo con vị thịt gà PURINA PRO PLAN Kitten",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/08/thuc-an-cho-meo-con-vi-thit-ga-purina-pro-plan-kitten.jpg",
       "price": 490000,
       "rating": 4.6
     },
     {
       "categoryId": 1,
       "id": 24,
-      "name": "Weruva Cats in the Kitchen - Chicken & Salmon",
-      "img": "https://example.com/images/weruva-cats.jpg",
-      "price": 400000,
-      "rating": 4.4
+      "name": "Thức ăn cho mèo con vị cá hồi cá ngừ PURINA PRO PLAN Kitten Starter",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/08/thuc-an-cho-meo-con-vi-ca-hoi-ca-ngu-purina-pro-plan-kitten-starter.jpg",
+      "price": 500.000,
+      "rating": 4.9
     },
     {
       "categoryId": 1,
       "id": 25,
-      "name": "Solid Gold Indigo Moon with Chicken & Eggs",
-      "img": "https://example.com/images/solid-gold-indigo.jpg",
-      "price": 450000,
+      "name": "Thức ăn cho mèo vị cá hồi PURINA PRO PLAN Adult Salmon Formula",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/08/thuc-an-cho-meo-vi-ca-hoi-purina-pro-plan-adult-salmon-formula-400x400.jpg",
+      "price": 525.000,
       "rating": 4.7
     }
     ,
       {
         "categoryId": 2,
         "id": 1,
-        "name": "Whiskas Pate with Chicken",
-        "img": "https://example.com/images/whiskas-pate-chicken.jpg",
-        "price": 25000,
+        "name": "Pate cho mèo vị cá ngừ nguyên chất CAT SEA FISH Pure Tuna Meat",
+        "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-ngu-nguyen-chat-cat-sea-fish-pure-tuna-meat-400x400.jpg",
+        "price": 30.000,
         "rating": 4.5
       },
       {
         "categoryId": 2,
         "id": 2,
-        "name": "Royal Canin Feline Health Nutrition Pate",
-        "img": "https://example.com/images/royal-canin-pate.jpg",
-        "price": 50000,
+        "name": "Pate cho mèo vị nước sốt cá ngừ WHISKAS Tuna Flavour Sauce",
+        "img": "https://www.petmart.vn/wp-content/uploads/2013/05/pate-cho-meo-vi-nuoc-sot-ca-ngu-whiskas-tuna-flavour-sauce1-400x400.jpg",
+        "price": 25.000,
         "rating": 4.7
       },
       {
         "categoryId": 2,
         "id": 3,
-        "name": "Sheba Premium Pate with Tuna",
-        "img": "https://example.com/images/sheba-tuna-pate.jpg",
-        "price": 35000,
+        "name": "Pate cho mèo mẹ và mèo con CATIDEA Mother & Baby Cat",
+        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/pate-cho-meo-me-va-meo-con-catidea-mother-baby-cat.jpg",
+        "price": 35.000,
         "rating": 4.6
       },
       {
         "categoryId": 2,
         "id": 4,
-        "name": "Hill's Prescription Diet c/d Pate for Cats",
-        "img": "https://example.com/images/hills-cd-pate.jpg",
-        "price": 150000,
+        "name": "Pate cho mèo vị cá ngừ thanh cua CAT SEA FISH Tuna Surimi",
+        "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-ngu-thit-cua-cat-sea-fish-tuna-surimi.jpg",
+        "price": 30.000,
         "rating": 4.8
       },
       {
         "categoryId": 2,
         "id": 5,
-        "name": "Iams Perfect Portions Pate with Chicken",
-        "img": "https://example.com/images/iams-chicken-pate.jpg",
+        "name": "Pate cho mèo CIAO Tuna & Whitebait vị cá ngừ và cá chạch trắng",
+        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/pate-cho-meo-ciao-tuna-whitebait-ca-ngu-va-ca-chach-trang.jpg",
         "price": 27000,
         "rating": 4.4
       },
       {
         "categoryId": 2,
         "id": 6,
-        "name": "Wellness CORE Pate with Turkey & Chicken Liver",
-        "img": "https://example.com/images/wellness-core-turkey-chicken.jpg",
-        "price": 85000,
+        "name": "Pate cho mèo vị cá ngừ cá thu CAT SEA FISH Tuna Mackerel",
+        "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-ngu-ca-thu-cat-sea-fish-tuna-mackerel.jpg",
+        "price": 30.000,
         "rating": 4.7
       },
       {
         "categoryId": 2,
         "id": 7,
-        "name": "Purina Pro Plan Pate with Salmon",
-        "img": "https://example.com/images/purina-pro-plan-salmon.jpg",
-        "price": 40000,
+        "name": "Pate cho mèo vị cá ngừ cá cơm CAT SEA FISH Tuna Anchovy",
+        "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-com-cat-sea-fish-tuna-anchovy.jpg",
+        "price": 30.000,
         "rating": 4.6
       },
       {
         "categoryId": 2,
         "id": 8,
-        "name": "Natural Balance LID Pate with Duck & Potato",
-        "img": "https://example.com/images/natural-balance-duck.jpg",
-        "price": 45000,
+        "name": "Pate cho mèo CIAO Tuna & Salmon vị cá ngừ và cá hồi",
+        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/pate-cho-meo-ciao-tuna-salmon-vi-ca-ngu-va-ca-hoi.jpg",
+        "price": 20.000,
         "rating": 4.5
       },
       {
         "categoryId": 2,
         "id": 9,
-        "name": "Merrick Pate with Beef & Chicken",
-        "img": "https://example.com/images/merrick-beef-chicken.jpg",
-        "price": 60000,
+        "name": "Pate cho mèo vị cá ngừ trộn thịt cua IRIS OHYAMA Tuna Crab",
+        "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ca-ngu-tron-thit-cua-iris-tuna-crab.jpg",
+        "price": 35.000,
         "rating": 4.7
       },
       {
         "categoryId": 2,
         "id": 10,
-        "name": "Blue Buffalo Homestyle Recipe Pate with Chicken",
-        "img": "https://example.com/images/blue-buffalo-homestyle.jpg",
-        "price": 48000,
+        "name": "Sốt pate cho mèo CIAO vị cá ngừ nướng và sò điệp",
+        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sot-pate-cho-meo-ciao-vi-ca-ngu-nuong-va-so-diep.jpg",
+        "price": 20.000,
         "rating": 4.6
       },
       {
         "categoryId": 2,
         "id": 11,
-        "name": "Ziwi Peak Pate with Beef & Lamb",
-        "img": "https://example.com/images/ziwi-peak-beef-lamb.jpg",
-        "price": 90000,
+        "name": "Pate cho mèo vị gà và cá ngừ IRIS OHYAMA Delicacy Tuna Chicken",
+        "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ga-va-ca-ngu-iris-delicacy-tuna-chicken.jpg",
+        "price": 35.000,
         "rating": 4.9
       },
       {
         "categoryId": 2,
         "id": 12,
-        "name": "Solid Gold Leaping Waters Pate with Salmon",
-        "img": "https://example.com/images/solid-gold-salmon.jpg",
-        "price": 65000,
+        "name": "Pate cho mèo vị cá ngừ IRIS OHYAMA Delicacy Tuna Bonito Fish",
+        "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ca-ngu-iris-delicacy.jpg",
+        "price": 35.000,
         "rating": 4.8
       },
       {
         "categoryId": 2,
         "id": 13,
-        "name": "Orijen Pate with Free-Range Chicken & Turkey",
-        "img": "https://example.com/images/orijen-chicken-turkey.jpg",
-        "price": 95000,
+        "name": "Nước sốt pate cho mèo CIAO vị ức gà và thanh cua",
+        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/nuoc-sot-pate-cho-meo-ciao-vi-uc-ga-va-thanh-cua.jpg",
+        "price": 35.000,
         "rating": 4.9
       },
       {
         "categoryId": 2,
         "id": 14,
-        "name": "Canidae PURE Limited Ingredient Pate with Salmon",
-        "img": "https://example.com/images/canidae-pure-salmon.jpg",
-        "price": 70000,
+        "name": "Pate cho mèo vị cá ngừ trộn thịt gà IRIS OHYAMA Tuna Chicken",
+        "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ca-ngu-tron-thit-ga-iris-tuna-chicken.jpg",
+        "price": 35.000,
         "rating": 4.7
       },
       {
         "categoryId": 2,
         "id": 15,
-        "name": "Taste of the Wild Pate with Roasted Duck & Roasted Quail",
-        "img": "https://example.com/images/taste-of-wild-duck-quail.jpg",
-        "price": 80000,
+        "name": "Thịt ức gà nướng sốt canh gà cho mèo CIAO Chicken Broth",
+        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/thit-uc-ga-nuong-sot-canh-ga-cho-meo-ciao-chicken-broth.jpg",
+        "price": 30.000,
         "rating": 4.6
       },
       {
         "categoryId": 2,
         "id": 16,
-        "name": "Instinct Raw Boost Mixers Pate with Chicken",
-        "img": "https://example.com/images/instinct-raw-chicken.jpg",
-        "price": 95000,
+        "name": "Nước sốt pate cho mèo CIAO vị ức gà & sò điệp",
+        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/nuoc-sot-pate-cho-meo-ciao-vi-uc-ga-so-diep-400x400.jpg",
+        "price": 35.000,
         "rating": 4.8
       },
       {
         "categoryId": 2,
         "id": 17,
-        "name": "Nature's Logic Feline Pate with Chicken",
-        "img": "https://example.com/images/natures-logic-chicken.jpg",
-        "price": 70000,
+        "name": "Nước sốt pate cho mèo CIAO vị cá ngừ và mực biển",
+        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/nuoc-sot-pate-cho-meo-ciao-vi-ca-ngu-va-muc-bien.jpg",
+        "price": 35.000,
         "rating": 4.7
       },
       {
         "categoryId": 2,
         "id": 18,
-        "name": "Weruva Cats in the Kitchen Pate with Chicken & Salmon",
-        "img": "https://example.com/images/weruva-chicken-salmon.jpg",
-        "price": 50000,
+        "name": "Pate cho mèo vị cá ngừ và thịt gà IRIS OHYAMA Tuna Chicken",
+        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/pate-cho-meo-vi-ca-ngu-va-thit-ga-iris-tuna-chicken.jpg",
+        "price": 25.000,
         "rating": 4.6
       },
       {
         "categoryId": 2,
         "id": 19,
-        "name": "Nutro Wholesome Essentials Pate with Chicken & Liver",
-        "img": "https://example.com/images/nutro-wholesome-chicken-liver.jpg",
-        "price": 60000,
+        "name": "Sốt pate cho mèo CIAO vị cá ngừ nướng, thanh sò điệp và bột cá ngừ",
+        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sot-pate-cho-meo-ciao-vi-ca-ngu-nuong-thanh-so-diep-va-bot-ca-ngu.jpg",
+        "price": 20.000,
         "rating": 4.5
       },
       {
         "categoryId": 2,
         "id": 20,
-        "name": "Hill's Science Diet Adult Pate with Chicken & Vegetable",
-        "img": "https://example.com/images/hills-science-chicken-veg.jpg",
-        "price": 70000,
+        "name": "Thịt ức gà nướng sốt sò điệp cho mèo CIAO Scallop",
+        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/thit-uc-ga-nuong-sot-so-diep-cho-meo-ciao-scallop.jpg",
+        "price": 30.000,
         "rating": 4.6
       },
       {
         "categoryId": 2,
         "id": 21,
-        "name": "Wellness Complete Health Pate with Turkey & Salmon",
-        "img": "https://example.com/images/wellness-complete-health.jpg",
-        "price": 55000,
+        "name": "Pate cho mèo vị cá ngừ IRIS OHYAMA Tuna",
+        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/pate-cho-meo-vi-ca-ngu-iris-tuna.jpg",
+        "price": 55.000,
         "rating": 4.7
       },
       {
         "categoryId": 2,
         "id": 22,
-        "name": "Acana Singles + Healthy Weight Pate with Lamb & Apple",
-        "img": "https://example.com/images/acana-lamb-apple.jpg",
-        "price": 65000,
+        "name": "Thịt cá chép nướng sốt sò điệp CIAO cho mèo",
+        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/thit-ca-chep-nuong-sot-so-diep-ciao-cho-meo.jpg",
+        "price": 30.000,
         "rating": 4.8
       },
       {
         "categoryId": 2,
         "id": 23,
-        "name": "Merrick Pate with Turkey & Salmon",
-        "img": "https://example.com/images/merrick-turkey-salmon.jpg",
-        "price": 70000,
+        "name": "Pate cho mèo vị gà, cá ngừ và cá bào CIAO Chicken, Tuna & Bonito Flakes",
+        "img": "https://www.petmart.vn/wp-content/uploads/2021/06/pate-cho-meo-vi-ga-ca-ngu-va-ca-bao-ciao-chicken-tuna-bonito-flakes-400x400.jpg",
+        "price": 35.000,
         "rating": 4.7
       },
       {
         "categoryId": 2,
         "id": 24,
-        "name": "Nutro Max Cat Pate with Tuna & Salmon",
-        "img": "https://example.com/images/nutro-max-tuna-salmon.jpg",
-        "price": 40000,
+        "name": "Pate cho mèo vị gà, cá ngừ và sò CIAO Chicken, Tuna & Scallop",
+        "img": "https://www.petmart.vn/wp-content/uploads/2021/06/pate-cho-meo-vi-gan-ca-ngu-va-so-ciao-chicken-tuna-scallop.jpg",
+        "price": 35.000,
         "rating": 4.5
       },
       {
         "categoryId": 2,
         "id": 25,
-        "name": "Blue Buffalo Wilderness Pate with Chicken & Turkey",
-        "img": "https://example.com/images/blue-buffalo-wilderness.jpg",
-        "price": 80000,
+        "name": "Pate cho mèo con vị thịt gà PURINA PRO PLAN Kitten Chicken Jelly",
+        "img": "https://www.petmart.vn/wp-content/uploads/2023/08/pate-cho-meo-con-vi-thit-ga-purina-pro-plan-kitten-chicken-jelly2.jpg",
+        "price": 45.000,
         "rating": 4.7
       },
-      {
-        "categoryId": 2,
-        "id": 26,
-        "name": "Sheba Perfect Portions Pate with Chicken",
-        "img": "https://example.com/images/sheba-perfect-portions-chicken.jpg",
-        "price": 35000,
-        "rating": 4.5
-      },
-      {
-        "categoryId": 2,
-        "id": 27,
-        "name": "Solid Gold Pate with Tuna & Salmon",
-        "img": "https://example.com/images/solid-gold-tuna-salmon.jpg",
-        "price": 65000,
-        "rating": 4.8
-      },
-      {
-        "categoryId": 2,
-        "id": 28,
-        "name": "Orijen Pate with Wild Boar & Roasted Lamb",
-        "img": "https://example.com/images/orijen-boar-lamb.jpg",
-        "price": 95000,
-        "rating": 4.9
-      },
-      {
-        "categoryId": 2,
-        "id": 29,
-        "name": "Purina ONE SmartBlend Pate with Chicken & Turkey",
-        "img": "https://example.com/images/purina-one-smartblend.jpg",
-        "price": 45000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 30,
-        "name": "Hill's Ideal Balance Pate with Chicken & Vegetables",
-        "img": "https://example.com/images/hills-ideal-balance.jpg",
-        "price": 75000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 31,
-        "name": "Natural Balance L.I.D. Pate with Lamb & Sweet Potato",
-        "img": "https://example.com/images/natural-balance-lamb-sweetpotato.jpg",
-        "price": 55000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 32,
-        "name": "Wellness CORE Pate with Chicken & Turkey",
-        "img": "https://example.com/images/wellness-core-chicken-turkey.jpg",
-        "price": 65000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 33,
-        "name": "Iams ProActive Health Pate with Chicken & Turkey",
-        "img": "https://example.com/images/iams-proactive-health-chicken.jpg",
-        "price": 30000,
-        "rating": 4.5
-      },
-      {
-        "categoryId": 2,
-        "id": 34,
-        "name": "Canidae PURE Limited Ingredient Pate with Duck & Pumpkin",
-        "img": "https://example.com/images/canidae-duck-pumpkin.jpg",
-        "price": 60000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 35,
-        "name": "Ziwi Peak Pate with Venison & Fish",
-        "img": "https://example.com/images/ziwi-peak-venison-fish.jpg",
-        "price": 85000,
-        "rating": 4.9
-      },
-      {
-        "categoryId": 2,
-        "id": 36,
-        "name": "Nature's Logic Pate with Chicken & Vegetables",
-        "img": "https://example.com/images/natures-logic-veg.jpg",
-        "price": 70000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 37,
-        "name": "Taste of the Wild Pate with Roasted Venison",
-        "img": "https://example.com/images/taste-of-wild-venison.jpg",
-        "price": 80000,
-        "rating": 4.8
-      },
-      {
-        "categoryId": 2,
-        "id": 38,
-        "name": "Royal Canin Feline Health Nutrition Pate for Kittens",
-        "img": "https://example.com/images/royal-canin-kitten.jpg",
-        "price": 45000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 39,
-        "name": "Hill's Prescription Diet i/d Pate with Chicken",
-        "img": "https://example.com/images/hills-id-pate.jpg",
-        "price": 120000,
-        "rating": 4.8
-      },
-      {
-        "categoryId": 2,
-        "id": 40,
-        "name": "Blue Buffalo Healthy Gourmet Pate with Chicken",
-        "img": "https://example.com/images/blue-buffalo-gourmet-chicken.jpg",
-        "price": 70000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 41,
-        "name": "Wellness CORE Pate with Chicken & Chicken Liver",
-        "img": "https://example.com/images/wellness-core-chicken-liver.jpg",
-        "price": 65000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 42,
-        "name": "Merrick Pate with Salmon & Chicken",
-        "img": "https://example.com/images/merrick-salmon-chicken.jpg",
-        "price": 70000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 43,
-        "name": "Canidae PURE Limited Ingredient Pate with Salmon & Sweet Potato",
-        "img": "https://example.com/images/canidae-pure-salmon.jpg",
-        "price": 65000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 44,
-        "name": "Royal Canin Sterilised Pate for Adult Cats",
-        "img": "https://example.com/images/royal-canin-sterilised.jpg",
-        "price": 50000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 45,
-        "name": "Purina Fancy Feast Gourmet Pate with Turkey & Giblets",
-        "img": "https://example.com/images/fancy-feast-turkey-giblets.jpg",
-        "price": 30000,
-        "rating": 4.4
-      },
-      {
-        "categoryId": 2,
-        "id": 46,
-        "name": "Sheba Pate with Salmon",
-        "img": "https://example.com/images/sheba-salmon-pate.jpg",
-        "price": 35000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 47,
-        "name": "Wellness CORE Pate with Lamb & Chicken Liver",
-        "img": "https://example.com/images/wellness-core-lamb-liver.jpg",
-        "price": 70000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 48,
-        "name": "Hill's Science Diet Adult Pate with Tuna",
-        "img": "https://example.com/images/hills-science-tuna.jpg",
-        "price": 75000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 49,
-        "name": "Instinct Raw Boost Mixers Pate with Turkey",
-        "img": "https://example.com/images/instinct-raw-turkey.jpg",
-        "price": 90000,
-        "rating": 4.8
-      },
-      {
-        "categoryId": 2,
-        "id": 50,
-        "name": "Solid Gold Pate with Turkey & Salmon",
-        "img": "https://example.com/images/solid-gold-turkey-salmon.jpg",
-        "price": 65000,
-        "rating": 4.7
-      },
+      
       
         {
           "categoryId": 3,
           "id": 1,
-          "name": "Sheba Perfect Portions Soup with Chicken",
-          "img": "https://example.com/images/sheba-soup-chicken.jpg",
-          "price": 35000,
+          "name": "Súp thưởng cho mèo CIAO Hairball Control vị thịt gà tiêu búi lông",
+          "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-hairball-control-tieu-bui-long-400x400.jpg",
+          "price": 40.000,
           "rating": 4.7
         },
         {
           "categoryId": 3,
           "id": 2,
-          "name": "Royal Canin Feline Health Nutrition Soup",
-          "img": "https://example.com/images/royal-canin-soup.jpg",
+          "name": "Soup cho mèo CIAO Grilled Tuna vị cá ngừ nướng",
+          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/soup-cho-meo-ciao-grilled-tuna-vi-ca-ngu-nuong-400x401.jpg",
           "price": 50000,
           "rating": 4.6
         },
         {
           "categoryId": 3,
           "id": 3,
-          "name": "Hill's Science Diet Soup with Chicken & Rice",
-          "img": "https://example.com/images/hills-science-chicken-rice.jpg",
-          "price": 45000,
+          "name": "Soup cho mèo CIAO Scallop & Chicken vị sò điệp và thịt gà",
+          "img": "https://www.petmart.vn/wp-content/uploads/2021/06/soup-cho-meo-ciao-scallop-chicken-vi-so-diep-va-thit-ga-400x400.jpg",
+          "price": 25.000,
           "rating": 4.8
         },
         {
           "categoryId": 3,
           "id": 4,
-          "name": "Iams Delights Soup with Tuna & Shrimp",
-          "img": "https://example.com/images/iams-soup-tuna-shrimp.jpg",
-          "price": 38000,
+          "name": "Soup cho mèo CIAO Tuna, Whitebait & Chicken vị cá ngừ, cá mồi và gà",
+          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/soup-cho-meo-ciao-tuna-whitebait-chicken-vi-ca-ngu-ca-moi-va-ga.jpg",
+          "price": 25.000,
           "rating": 4.5
         },
         {
           "categoryId": 3,
           "id": 5,
-          "name": "Merrick Purrfect Bistro Soup with Chicken & Duck",
-          "img": "https://example.com/images/merrick-soup-chicken-duck.jpg",
-          "price": 42000,
+          "name": "Súp thưởng cho mèo CIAO Tuna vị cá ngừ đại dương",
+          "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-tuna-vi-ca-ngu-dai-duong.jpg",
+          "price": 175.000,
           "rating": 4.7
         },
         {
           "categoryId": 3,
           "id": 6,
-          "name": "Wellness CORE Soup with Chicken & Salmon",
-          "img": "https://example.com/images/wellness-core-chicken-salmon.jpg",
-          "price": 47000,
+          "name": "Súp thưởng cho mèo CIAO Tuna vị cá ngừ biển",
+          "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-tuna-vi-ca-ngu.jpg",
+          "price": 47.000,
           "rating": 4.8
         },
         {
           "categoryId": 3,
           "id": 7,
-          "name": "Purina Fancy Feast Broths Soup with White Meat Chicken",
-          "img": "https://example.com/images/fancy-feast-broths-chicken.jpg",
-          "price": 35000,
+          "name": "Súp thưởng cho mèo CIAO Scallop vị ngao sò",
+          "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-scallop-vi-ngao-so.jpg",
+          "price": 40.000,
           "rating": 4.6
         },
         {
           "categoryId": 3,
           "id": 8,
-          "name": "Blue Buffalo Wilderness Soup with Tuna & Shrimp",
-          "img": "https://example.com/images/blue-buffalo-wilderness-tuna-shrimp.jpg",
-          "price": 40000,
+          "name": "Súp thưởng cho mèo vị cá ngừ hải sản CIAO Tuna & Seafood ",
+          "img": "https://www.petmart.vn/wp-content/uploads/2021/06/sup-thuong-cho-meo-vi-ca-ngu-hai-san-ciao-tuna-seafood.jpg",
+          "price": 175.000,
           "rating": 4.7
         },
         {
           "categoryId": 3,
           "id": 9,
-          "name": "Sheba Perfect Portions Soup with Salmon",
-          "img": "https://example.com/images/sheba-soup-salmon.jpg",
-          "price": 35000,
+          "name": "Súp thưởng cho mèo vị cá hồi IRIS OHYAMA Salmon Soup",
+          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ca-hoi-iris-salmon-soup8.jpg",
+          "price": 55.000,
           "rating": 4.8
         },
         {
           "categoryId": 3,
           "id": 10,
-          "name": "Royal Canin Instinctive Soup",
-          "img": "https://example.com/images/royal-canin-instinctive.jpg",
-          "price": 55000,
+          "name": "Súp thưởng cho mèo vị cá ngừ IRIS OHYAMA Tuna Soup",
+          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ca-ngu-iris-tuna-soup5.jpg",
+          "price": 55.000,
           "rating": 4.6
         },
         {
           "categoryId": 3,
           "id": 11,
-          "name": "Acana Wild Atlantic Soup with Salmon",
-          "img": "https://example.com/images/acana-soup-salmon.jpg",
-          "price": 60000,
+          "name": "Súp thưởng cho mèo CIAO Bonito & Scallop vị cá bào và ngao sò",
+          "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-bonito-scallop-vi-ca-ngu-va-ngao-so.jpg",
+          "price": 175.000,
           "rating": 4.9
         },
         {
           "categoryId": 3,
           "id": 12,
-          "name": "Ziwi Peak Lamb & Hoki Soup",
-          "img": "https://example.com/images/ziwi-peak-lamb-hoki.jpg",
-          "price": 90000,
+          "name": "Súp thưởng cho mèo vị cá thu IRIS OHYAMA Bonito Soup",
+          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ca-thu-iris-bonito-soup.jpg",
+          "price": 55.000,
           "rating": 4.9
         },
         {
           "categoryId": 3,
           "id": 13,
-          "name": "Solid Gold Leaping Waters Soup with Chicken & Salmon",
-          "img": "https://example.com/images/solid-gold-chicken-salmon.jpg",
-          "price": 47000,
+          "name": "Súp thưởng cho mèo vị cá ngừ CIAO Tuna Recipe",
+          "img": "https://www.petmart.vn/wp-content/uploads/2021/06/sup-thuong-cho-meo-vi-ca-ngu-ciao-tuna-recipe.jpg",
+          "price": 47.000,
           "rating": 4.7
         },
         {
           "categoryId": 3,
           "id": 14,
-          "name": "Orijen Wild Boar Soup",
-          "img": "https://example.com/images/orijen-wild-boar.jpg",
-          "price": 65000,
+          "name": "Súp thưởng cho mèo vị thịt gà BIOLINE Chicken Flavor",
+          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-thit-ga-bioline-chicken-flavor.jpg",
+          "price": 65.000,
           "rating": 4.8
         },
         {
           "categoryId": 3,
           "id": 15,
-          "name": "Canidae PURE Limited Ingredient Soup with Salmon",
-          "img": "https://example.com/images/canidae-pure-salmon-soup.jpg",
-          "price": 50000,
+          "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Tuna Salmon",
+          "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-tuna-salmon.jpg",
+          "price": 50.000,
           "rating": 4.7
         },
         {
           "categoryId": 3,
           "id": 16,
-          "name": "Instinct Raw Boost Mixers Soup with Chicken",
-          "img": "https://example.com/images/instinct-raw-boost-chicken.jpg",
-          "price": 55000,
+          "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Tuna Hairball",
+          "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-tuna-hairball.jpg",
+          "price": 40.000,
           "rating": 4.9
         },
         {
           "categoryId": 3,
           "id": 17,
-          "name": "Wellness Complete Health Soup with Turkey & Chicken",
-          "img": "https://example.com/images/wellness-complete-turkey-chicken.jpg",
-          "price": 45000,
+          "name": "Súp thưởng cho mèo vị cá ngừ dầu cá BIOLINE Tuna Fish Oil",
+          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-dau-ca-bioline-tuna-fish-oil.jpg",
+          "price": 45.000,
           "rating": 4.7
         },
         {
           "categoryId": 3,
           "id": 18,
-          "name": "Nature's Logic Feline Soup with Chicken",
-          "img": "https://example.com/images/natures-logic-chicken-soup.jpg",
-          "price": 60000,
+          "name": "Súp thưởng cho mèo vị cá ngừ cá hồi BIOLINE Tuna Salmon",
+          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-ca-hoi-bioline-tuna-salmon.jpg",
+          "price": 60.000,
           "rating": 4.8
         },
         {
           "categoryId": 3,
           "id": 19,
-          "name": "Taste of the Wild Soup with Roasted Salmon",
-          "img": "https://example.com/images/taste-of-wild-salmon-soup.jpg",
-          "price": 48000,
+          "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Chicken Breast Shrimp",
+          "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-chicken-breast-shrimp.jpg",
+          "price": 40.000,
           "rating": 4.7
         },
         {
           "categoryId": 3,
           "id": 20,
-          "name": "Purina Pro Plan Savor Soup with Salmon & Tuna",
-          "img": "https://example.com/images/purina-pro-plan-salmon-tuna.jpg",
-          "price": 40000,
+          "name": "Súp thưởng cho mèo vị cá ngừ sò điệp BIOLINE Tuna Scallop",
+          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-so-diep-bioline-tuna-scallop.jpg",
+          "price": 50.000,
           "rating": 4.6
         },
         {
           "categoryId": 3,
           "id": 21,
-          "name": "Wellness CORE Soup with Salmon & Whitefish",
-          "img": "https://example.com/images/wellness-core-salmon-whitefish.jpg",
-          "price": 48000,
+          "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Tuna Crab Meat",
+          "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-tuna-crab-meat.jpg",
+          "price": 40.000,
           "rating": 4.7
         },
         {
           "categoryId": 3,
           "id": 22,
-          "name": "Sheba Gourmet Soup with Tuna & Pumpkin",
-          "img": "https://example.com/images/sheba-gourmet-tuna-pumpkin.jpg",
-          "price": 37000,
+          "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Salmon Seabream",
+          "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-salmon-seabream.jpg",
+          "price": 40.000,
           "rating": 4.6
         },
         {
           "categoryId": 3,
           "id": 23,
-          "name": "Royal Canin Pouch Soup with Chicken",
-          "img": "https://example.com/images/royal-canin-pouch-chicken.jpg",
+          "name": "Súp thưởng cho mèo vị cá ngừ vây vàng BIOLINE Yellowfin Tuna",
+          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-vay-vang-bioline-yellowfin-tuna.jpg",
           "price": 49000,
           "rating": 4.6
         },
         {
           "categoryId": 3,
           "id": 24,
-          "name": "Iams Perfect Portions Soup with Tuna & Crab",
-          "img": "https://example.com/images/iams-soup-tuna-crab.jpg",
-          "price": 38000,
+          "name": "Súp thưởng cho mèo vị gà và tôm IRIS OHYAMA Chicken Shrimp Soup",
+          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ga-va-tom-iris-chicken-shrimp-soup1.jpg",
+          "price": 55.000,
           "rating": 4.5
         },
         {
           "categoryId": 3,
           "id": 25,
-          "name": "Merrick Purrfect Bistro Soup with Chicken & Salmon",
-          "img": "https://example.com/images/merrick-soup-chicken-salmon.jpg",
-          "price": 45000,
+          "name": "Súp thưởng cho mèo vị cá ngừ vây vàng sò điệp BIOLINE Yellowfin Tuna Scallop",
+          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-vay-vang-so-diep-bioline-yellowfin-tuna-scallop.jpg",
+          "price": 55.000,
           "rating": 4.7
         },
-        {
-          "categoryId": 3,
-          "id": 26,
-          "name": "Acana Singles + Healthy Weight Soup with Lamb",
-          "img": "https://example.com/images/acana-singles-lamb-soup.jpg",
-          "price": 55000,
-          "rating": 4.8
-        },
-        {
-          "categoryId": 3,
-          "id": 27,
-          "name": "Ziwi Peak Venison & Fish Soup",
-          "img": "https://example.com/images/ziwi-peak-venison-fish.jpg",
-          "price": 85000,
-          "rating": 4.9
-        },
-        {
-          "categoryId": 3,
-          "id": 28,
-          "name": "Wellness CORE Soup with Lamb & Chicken Liver",
-          "img": "https://example.com/images/wellness-core-lamb-chicken-liver.jpg",
-          "price": 55000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 29,
-          "name": "Solid Gold Leaping Waters Soup with Duck & Salmon",
-          "img": "https://example.com/images/solid-gold-duck-salmon.jpg",
-          "price": 50000,
-          "rating": 4.6
-        },
-        {
-          "categoryId": 3,
-          "id": 30,
-          "name": "Canidae PURE Soup with Duck & Sweet Potato",
-          "img": "https://example.com/images/canidae-pure-duck.jpg",
-          "price": 54000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 31,
-          "name": "Purina Fancy Feast Broths Soup with Salmon",
-          "img": "https://example.com/images/fancy-feast-broths-salmon.jpg",
-          "price": 35000,
-          "rating": 4.6
-        },
-        {
-          "categoryId": 3,
-          "id": 32,
-          "name": "Blue Buffalo Homestyle Recipe Soup with Chicken",
-          "img": "https://example.com/images/blue-buffalo-homestyle-chicken.jpg",
-          "price": 42000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 33,
-          "name": "Sheba Perfect Portions Soup with Turkey",
-          "img": "https://example.com/images/sheba-soup-turkey.jpg",
-          "price": 37000,
-          "rating": 4.6
-        },
-        {
-          "categoryId": 3,
-          "id": 34,
-          "name": "Iams ProActive Health Soup with Salmon & Tuna",
-          "img": "https://example.com/images/iams-soup-salmon-tuna.jpg",
-          "price": 42000,
-          "rating": 4.5
-        },
-        {
-          "categoryId": 3,
-          "id": 35,
-          "name": "Wellness CORE Soup with Turkey & Chicken Liver",
-          "img": "https://example.com/images/wellness-core-turkey-liver.jpg",
-          "price": 47000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 36,
-          "name": "Purina Pro Plan Savor Soup with Chicken & Tuna",
-          "img": "https://example.com/images/purina-pro-plan-chicken-tuna.jpg",
-          "price": 45000,
-          "rating": 4.6
-        },
-        {
-          "categoryId": 3,
-          "id": 37,
-          "name": "Taste of the Wild Soup with Roasted Venison",
-          "img": "https://example.com/images/taste-of-wild-venison-soup.jpg",
-          "price": 48000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 38,
-          "name": "Royal Canin Feline Health Nutrition Soup for Kittens",
-          "img": "https://example.com/images/royal-canin-kitten-soup.jpg",
-          "price": 52000,
-          "rating": 4.8
-        },
-        {
-          "categoryId": 3,
-          "id": 39,
-          "name": "Hill's Science Diet Adult Soup with Salmon & Sweet Potato",
-          "img": "https://example.com/images/hills-science-salmon-sweetpotato.jpg",
-          "price": 52000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 40,
-          "name": "Wellness CORE Soup with Salmon & Chicken Liver",
-          "img": "https://example.com/images/wellness-core-salmon-liver.jpg",
-          "price": 47000,
-          "rating": 4.8
-        },
-        {
-          "categoryId": 3,
-          "id": 41,
-          "name": "Sheba Perfect Portions Soup with Salmon & Shrimp",
-          "img": "https://example.com/images/sheba-soup-salmon-shrimp.jpg",
-          "price": 37000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 42,
-          "name": "Solid Gold Leaping Waters Soup with Salmon & Tuna",
-          "img": "https://example.com/images/solid-gold-salmon-tuna.jpg",
-          "price": 48000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 43,
-          "name": "Purina Fancy Feast Gourmet Soup with Chicken & Tuna",
-          "img": "https://example.com/images/fancy-feast-gourmet-chicken-tuna.jpg",
-          "price": 38000,
-          "rating": 4.6
-        },
-        {
-          "categoryId": 3,
-          "id": 44,
-          "name": "Nature's Logic Soup with Lamb & Chicken",
-          "img": "https://example.com/images/natures-logic-lamb-chicken.jpg",
-          "price": 52000,
-          "rating": 4.8
-        },
-        {
-          "categoryId": 3,
-          "id": 45,
-          "name": "Ziwi Peak Pate with Venison & Fish Soup",
-          "img": "https://example.com/images/ziwi-peak-venison-fish-soup.jpg",
-          "price": 90000,
-          "rating": 4.9
-        },
-        {
-          "categoryId": 3,
-          "id": 46,
-          "name": "Blue Buffalo Wilderness Soup with Duck",
-          "img": "https://example.com/images/blue-buffalo-wilderness-duck.jpg",
-          "price": 40000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 47,
-          "name": "Hill's Prescription Diet c/d Soup with Chicken",
-          "img": "https://example.com/images/hills-cd-soup.jpg",
-          "price": 70000,
-          "rating": 4.8
-        },
-        {
-          "categoryId": 3,
-          "id": 48,
-          "name": "Wellness CORE Soup with Chicken & Chicken Liver",
-          "img": "https://example.com/images/wellness-core-chicken-liver-soup.jpg",
-          "price": 45000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 49,
-          "name": "Merrick Purrfect Bistro Soup with Tuna & Chicken",
-          "img": "https://example.com/images/merrick-soup-tuna-chicken.jpg",
-          "price": 45000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 50,
-          "name": "Taste of the Wild Soup with Roasted Chicken",
-          "img": "https://example.com/images/taste-of-wild-chicken-soup.jpg",
-          "price": 47000,
-          "rating": 4.6
-        },
+        
         
           {
             "categoryId": 4,
             "id": 1,
-            "name": "Whiskas Cat Milk for Adult Cats",
-            "img": "https://example.com/images/whiskas-cat-milk.jpg",
-            "price": 25000,
+            "name": "Bình sữa cho chó mèo sơ sinh BOBO Pet Milk Bottle",
+            "img": "https://www.petmart.vn/wp-content/uploads/2013/07/binh-sua-cho-cho-meo-so-sinh-bobo-pet-milk-bottle-400x400.jpg",
+            "price": 50.000,
             "rating": 4.6
           },
           {
             "categoryId": 4,
             "id": 2,
-            "name": "Royal Canin Feline Care Nutrition Cat Milk",
-            "img": "https://example.com/images/royal-canin-cat-milk.jpg",
-            "price": 35000,
+            "name": "Sữa bột cho mèo con BBN Kitten Milk",
+            "img": "https://www.petmart.vn/wp-content/uploads/2019/04/Wholesale-natural-pet-new-products-380g-milk-400x400.jpg",
+            "price": 320.000,
             "rating": 4.7
           },
           {
             "categoryId": 4,
             "id": 3,
-            "name": "PetAg KMR Liquid Kitten Milk Replacer",
-            "img": "https://example.com/images/petag-kmr-kitten-milk.jpg",
-            "price": 70000,
+            "name": "Sữa tươi cho mèo ít béo DR HOLI Cat Milk",
+            "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-meo-it-beo-dr-holi-cat-milk-400x400.jpg",
+            "price": 90.000,
             "rating": 4.8
           },
           {
             "categoryId": 4,
             "id": 4,
-            "name": "Lactol Milk Powder for Cats",
-            "img": "https://example.com/images/lactol-milk-powder.jpg",
-            "price": 45000,
+            "name": "Sữa tươi cho mèo con ít béo DR HOLI Cat Kitten Milk",
+            "img": "https://www.petmart.vn/wp-content/uploads/2021/12/sua-tuoi-cho-meo-con-it-beo-dr-holi-cat-kitten-milk.jpg",
+            "price": 90.000,
             "rating": 4.7
           },
           {
             "categoryId": 4,
             "id": 5,
-            "name": "GimCat Milk for Cats",
-            "img": "https://example.com/images/gimcat-milk.jpg",
-            "price": 30000,
+            "name": "Sữa tươi cho chó mèo ít béo DR HOLI Pet Milk Vanilla",
+            "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-cho-meo-it-beo-dr-holi-pet-milk-vanilla.jpg",
+            "price": 90.000,
             "rating": 4.5
           },
           {
             "categoryId": 4,
             "id": 6,
-            "name": "Beaphar CatMilk for Cats",
-            "img": "https://example.com/images/beaphar-catmilk.jpg",
-            "price": 27000,
+            "name": "Sữa cho chó mèo tươi ngon uống liền BIOLINE Pet Milk",
+            "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sua-cho-cho-meo-tuoi-ngon-uong-lien-bioline-pet-milk.jpg",
+            "price": 60.000,
             "rating": 4.6
           },
           {
             "categoryId": 4,
             "id": 7,
-            "name": "Hill's Prescription Diet c/d Urinary Care Cat Milk",
-            "img": "https://example.com/images/hills-cd-cat-milk.jpg",
-            "price": 80000,
+            "name": "Sữa tươi cho chó mèo ít béo DR HOLI Pet Milk Red Ginseng",
+            "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-cho-meo-it-beo-dr-holi-pet-milk-red-ginseng.jpg",
+            "price": 80.000,
             "rating": 4.8
           },
           {
             "categoryId": 4,
             "id": 8,
-            "name": "PetAg KMR Powdered Milk for Kittens",
-            "img": "https://example.com/images/petag-powdered-milk.jpg",
-            "price": 50000,
+            "name": "Bình sữa cho chó mèo con sơ sinh bú PAW Pet Silicone Milk Bottle",
+            "img": "https://www.petmart.vn/wp-content/uploads/2023/05/binh-sua-cho-cho-meo-con-so-sinh-bu-paw-pet-silicone-milk-bottle.jpg",
+            "price": 50.000,
             "rating": 4.9
           },
           {
             "categoryId": 4,
             "id": 9,
-            "name": "Arden Grange Kitten Milk",
-            "img": "https://example.com/images/arden-grange-kitten-milk.jpg",
-            "price": 60000,
+            "name": "Sữa tươi cho chó mèo ít béo DR HOLI Pet Milk Mango",
+            "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-cho-meo-it-beo-dr-holi-pet-milk-mango.jpg",
+            "price": 90.000,
             "rating": 4.7
           },
           {
             "categoryId": 4,
             "id": 10,
-            "name": "Whiskas Kitten Milk",
-            "img": "https://example.com/images/whiskas-kitten-milk.jpg",
-            "price": 28000,
+            "name": "Sữa bột cho chó mèo con, chó mèo mẹ đang mang thai BIOLINE Goat Milk",
+            "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sua-bot-cho-cho-meo-con-bioline-goat-milk.jpg",
+            "price": 320.000,
             "rating": 4.6
           },
           
             {
               "categoryId": 5,
               "id": 1,
-              "name": "Temptations Classic Crunchy and Soft Cat Treats",
-              "img": "https://example.com/images/temptations-classic-crunchy-soft.jpg",
-              "price": 25000,
+              "name": "Bánh thưởng cho mèo vị cá hồi JERHIGH Jinny Salmon",
+              "img": "https://www.petmart.vn/wp-content/uploads/2016/07/banh-thuong-cho-meo-vi-ca-hoi-jerhigh-jinny-salmon-flavored-400x400.jpg",
+              "price": 45.000,
               "rating": 4.7
             },
             {
               "categoryId": 5,
               "id": 2,
-              "name": "Greenies Feline Dental Treats",
-              "img": "https://example.com/images/greenies-feline-dental-treats.jpg",
-              "price": 35000,
+              "name": "Bánh thưởng cho mèo vị cá ngừ JERHIGH Jinny Tuna",
+              "img": "https://www.petmart.vn/wp-content/uploads/2016/07/banh-thuong-cho-meo-vi-ca-ngu-jerhigh-jinny-tuna-flavored-400x400.jpg",
+              "price": 45.000,
               "rating": 4.8
             },
             {
               "categoryId": 5,
               "id": 3,
-              "name": "Pioneer Pet Gourmet Biscuits",
-              "img": "https://example.com/images/pioneer-pet-gourmet-biscuits.jpg",
-              "price": 40000,
+              "name": "Bánh thưởng cho mèo làm sạch răng MEOW FUN Teeth Cleaning",
+              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-lam-sach-rang-meow-fun-teeth-cleaning-400x400.jpg",
+              "price": 50.000,
               "rating": 4.6
             },
             {
               "categoryId": 5,
               "id": 4,
-              "name": "Hill's Ideal Balance Soft-Baked Cat Treats",
-              "img": "https://example.com/images/hills-ideal-balance-soft-baked.jpg",
-              "price": 38000,
+              "name": "Bánh thưởng cho mèo vị thịt gà JERHIGH Jinny Chicken",
+              "img": "https://www.petmart.vn/wp-content/uploads/2016/07/snack-cho-meo-jerhigh-jinny-chicken-2018.jpg",
+              "price": 45.000,
               "rating": 4.7
             },
             {
               "categoryId": 5,
               "id": 5,
-              "name": "Whiskas Temptations MixUps Cat Treats",
-              "img": "https://example.com/images/whiskas-temptations-mixups.jpg",
-              "price": 30000,
+              "name": "Bánh thưởng cho mèo CIAO vị cá ngừ và thịt gà nướng",
+              "img": "https://www.petmart.vn/wp-content/uploads/2021/06/banh-thuong-cho-meo-ciao-vi-ca-ngu-va-thit-ga.jpg",
+              "price": 55.000,
               "rating": 4.6
             },
             {
               "categoryId": 5,
               "id": 6,
-              "name": "Meow Mix Irresistibles Soft Cat Treats",
-              "img": "https://example.com/images/meow-mix-irresistibles-soft.jpg",
-              "price": 27000,
+              "name": "Bánh thưởng cho mèo vị thập cẩm JERHIGH Jinny Gourmet",
+              "img": "https://www.petmart.vn/wp-content/uploads/2016/07/snack-cho-meo-jerhigh-jinny-gourmet-2018.jpg",
+              "price": 45.000,
               "rating": 4.7
             },
             {
               "categoryId": 5,
               "id": 7,
-              "name": "Blue Buffalo Wilderness Trail Treats",
-              "img": "https://example.com/images/blue-buffalo-wilderness-trail.jpg",
-              "price": 45000,
+              "name": "Snack bánh thưởng cho mèo CIAO Seafood Scallop vị hải sản sò điệp",
+              "img": "https://www.petmart.vn/wp-content/uploads/2021/05/snack-banh-thuong-cho-meo-ciao-seafood-scallop-vi-hai-san-so-diep.jpg",
+              "price": 35.000,
               "rating": 4.8
             },
             {
               "categoryId": 5,
               "id": 8,
-              "name": "Natural Balance L.I.D. Limited Ingredient Treats",
-              "img": "https://example.com/images/natural-balance-lid-treats.jpg",
-              "price": 40000,
+              "name": "Bánh thưởng cho mèo vị hải sản JERHIGH Jinny Seafood",
+              "img": "https://www.petmart.vn/wp-content/uploads/2016/07/snack-cho-meo-jerhigh-jinny-seafood-2018.jpg",
+              "price": 45.000,
               "rating": 4.6
             },
             {
               "categoryId": 5,
               "id": 9,
-              "name": "Friskies Party Mix Crunch",
-              "img": "https://example.com/images/friskies-party-mix-crunch.jpg",
-              "price": 25000,
+              "name": "Bánh thưởng cho mèo vị cá ngừ VEGEBRAND Orgo Cat Treats Tuna Fish",
+              "img": "https://www.petmart.vn/wp-content/uploads/2014/10/banh-thuong-cho-meo-vi-ca-ngu-vegebrand-orgo-cat-treats-tuna-fish.jpg",
+              "price": 50.000,
               "rating": 4.5
             },
             {
               "categoryId": 5,
               "id": 10,
-              "name": "Wellness Kittles Cat Treats",
-              "img": "https://example.com/images/wellness-kittles.jpg",
-              "price": 35000,
+              "name": "Bánh thưởng cho mèo Anh lông ngắn MEOW FUN Oral Care British Shorthair",
+              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-anh-long-ngan-meow-fun-oral-care-british-shorthair.jpg",
+              "price": 50.000,
               "rating": 4.7
             },
             {
               "categoryId": 5,
               "id": 11,
-              "name": "Merrick Purrfect Bistro Cat Treats",
-              "img": "https://example.com/images/merrick-purrfect-bistro.jpg",
-              "price": 40000,
+              "name": "Bánh thưởng cho mèo CIAO vị thịt ức gà",
+              "img": "https://www.petmart.vn/wp-content/uploads/2021/06/banh-thuong-cho-meo-ciao-vi-thit-uc-ga.jpg",
+              "price": 55.000,
               "rating": 4.8
             },
             {
               "categoryId": 5,
               "id": 12,
-              "name": "Orijen Freeze-Dried Cat Treats",
-              "img": "https://example.com/images/orijen-freeze-dried-treats.jpg",
-              "price": 60000,
+              "name": "Bánh thưởng cho mèo vị gan & thịt VEGEBRAND Orgo Cat Treats Poultry Liver",
+              "img": "https://www.petmart.vn/wp-content/uploads/2014/10/banh-thuong-cho-meo-vi-gan-thit-vegebrand-orgo-cat-treats-poultry-liver.jpg",
+              "price": 50.000,
               "rating": 4.9
             },
             {
               "categoryId": 5,
               "id": 13,
-              "name": "Canidae PURE Limited Ingredient Cat Treats",
-              "img": "https://example.com/images/canidae-pure-limited-treats.jpg",
-              "price": 50000,
+              "name": "Bánh thưởng cho mèo vị thịt bò và phô mai MEOW FUN Cheese Beef",
+              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-thit-bo-va-pho-mai-meow-fun-cheese-beef.jpg",
+              "price": 50.000,
               "rating": 4.7
             },
             {
               "categoryId": 5,
               "id": 14,
-              "name": "Solid Gold Crunchy Cat Treats",
-              "img": "https://example.com/images/solid-gold-crunchy-treats.jpg",
-              "price": 45000,
+              "name": "Snack bánh thưởng cho mèo CIAO Chicken, Salmon & Shrimp vị thịt gà, cá hồi và tôm",
+              "img": "https://www.petmart.vn/wp-content/uploads/2021/05/snack-banh-thuong-cho-meo-ciao-chicken-salmon-shrimp-vi-thit-ga-ca-hoi-va-tom.jpg",
+              "price": 35.000,
               "rating": 4.6
             },
             {
               "categoryId": 5,
               "id": 15,
-              "name": "Iams Delights Cat Treats",
-              "img": "https://example.com/images/iams-delights-treats.jpg",
-              "price": 28000,
+              "name": "Bánh thưởng cho mèo vị cá biển MEOW FUN Sea-fish",
+              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-bien-meow-fun-sea-fish.jpg",
+              "price": 50.000,
               "rating": 4.5
             },
             {
               "categoryId": 5,
               "id": 16,
-              "name": "Nature's Logic Feline Treats",
-              "img": "https://example.com/images/natures-logic-feline-treats.jpg",
-              "price": 55000,
+              "name": "Bánh thưởng cho mèo vị bạc hà MEOW FUN Peppermint Cod",
+              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-bac-ha-meow-fun-peppermint-cod.jpg",
+              "price": 50.000,
               "rating": 4.8
             },
             {
               "categoryId": 5,
               "id": 17,
-              "name": "Tiki Cat Gourmet Carnivore Cat Treats",
-              "img": "https://example.com/images/tiki-cat-gourmet-carnivore.jpg",
-              "price": 45000,
+              "name": "Bánh thưởng cho mèo vị cá hồi và phô mai MEOW FUN Cheese Salmon",
+              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-hoi-va-pho-mai-meow-fun-cheese-salmon.jpg",
+              "price": 50.000,
               "rating": 4.9
             },
             {
               "categoryId": 5,
               "id": 18,
-              "name": "PetSafe Healthy Cat Treats",
-              "img": "https://example.com/images/petsafe-healthy-cat-treats.jpg",
-              "price": 37000,
+              "name": "Bánh thưởng cho mèo vị cá MEOW FUN Grunion",
+              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-meow-fun-grunion.jpg",
+              "price": 50.000,
               "rating": 4.7
             },
             {
               "categoryId": 5,
               "id": 19,
-              "name": "Hill's Science Diet Adult Cat Treats",
-              "img": "https://example.com/images/hills-science-diet-adult.jpg",
-              "price": 38000,
+              "name": "Bánh thưởng cho mèo vị thịt gà MUO MUO Chicken Flavor",
+              "img": "https://www.petmart.vn/wp-content/uploads/2020/11/Banh-thuong-cho-meo-vi-thit-ga-MUO-MUO-Chicken-Flavor.jpg",
+              "price": 50.000,
               "rating": 4.8
             },
             {
               "categoryId": 5,
               "id": 20,
-              "name": "Fancy Feast Savory Cravings Cat Treats",
-              "img": "https://example.com/images/fancy-feast-savory-cravings.jpg",
-              "price": 35000,
+              "name": "Bánh thưởng cho mèo vị tôm MUO MUO Shrimp Flavor",
+              "img": "https://www.petmart.vn/wp-content/uploads/2020/11/Banh-thuong-cho-meo-vi-tom-MUO-MUO-shirmp-flavor.jpg",
+              "price": 50.000,
               "rating": 4.6
             },
             {
               "categoryId": 5,
               "id": 21,
-              "name": "Burt's Bees for Cats Cat Treats",
-              "img": "https://example.com/images/burts-bees-for-cats.jpg",
-              "price": 32000,
+              "name": "Bánh thưởng cho mèo vị cá hồi VEGEBRAND Orgo Diced Salmon Cat Treats",
+              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-hoi-vegebrand-orgo-diced-salmon-cat-treats.jpg",
+              "price": 50.000,
               "rating": 4.7
             },
             {
               "categoryId": 5,
               "id": 22,
-              "name": "VetriScience Laboratories VetriPaws Soft Chews",
-              "img": "https://example.com/images/vetriscience-vetripaws.jpg",
-              "price": 42000,
+              "name": "Bánh thưởng cho mèo vị tôm và phô mai VEGEBRAND Orgo Shrimp & Cheese Crisp Sandwich",
+              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-tom-va-pho-mai-vegebrand-orgo-shrimp-cheese-crisp-sandwich.jpg",
+              "price": 50.000,
               "rating": 4.8
             },
             {
               "categoryId": 5,
               "id": 23,
-              "name": "Friskies Lil' Soups Cat Treats",
-              "img": "https://example.com/images/friskies-lil-soups.jpg",
-              "price": 28000,
+              "name": "Snack bánh thưởng cho mèo con vị thịt bò GIMCAT Nutri Pockets Junior Mix Treats",
+              "img": "https://www.petmart.vn/wp-content/uploads/2023/04/snack-banh-thuong-cho-meo-con-vi-thit-bo-gimcat-nutri-pockets-junior-mix-treats.jpg",
+              "price": 75.000,
               "rating": 4.6
             },
             {
               "categoryId": 5,
               "id": 24,
-              "name": "Purina Pro Plan Savor Cat Treats",
-              "img": "https://example.com/images/purina-pro-plan-savor.jpg",
-              "price": 35000,
+              "name": "Snack bánh thưởng cho mèo vị cỏ bạc hà GIMCAT Nutri Pockets Catnip Treats",
+              "img": "https://www.petmart.vn/wp-content/uploads/2023/04/snack-banh-thuong-cho-meo-vi-co-bac-ha-gimcat-nutri-pockets-catnip-treats.jpg",
+              "price": 75.000,
               "rating": 4.7
             },
             {
               "categoryId": 5,
               "id": 25,
-              "name": "Arden Grange Kitten Treats",
-              "img": "https://example.com/images/arden-grange-kitten-treats.jpg",
-              "price": 40000,
+              "name": "Snack bánh thưởng cho mèo vị thịt vịt GIMCAT Nutri Pockets Duck Treats",
+              "img": "https://www.petmart.vn/wp-content/uploads/2023/04/snack-banh-thuong-cho-meo-vi-thit-vit-gimcat-nutri-pockets-duck-treat.jpg",
+              "price": 75.000,
               "rating": 4.7
             },
-            {
-              "categoryId": 5,
-              "id": 26,
-              "name": "SmartyKat Cat Treats",
-              "img": "https://example.com/images/smartykat-cat-treats.jpg",
-              "price": 29000,
-              "rating": 4.6
-            },
-            {
-              "categoryId": 5,
-              "id": 27,
-              "name": "Lily's Kitchen Natural Cat Treats",
-              "img": "https://example.com/images/lilys-kitchen-natural.jpg",
-              "price": 50000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 28,
-              "name": "Orijen Original Freeze-Dried Cat Treats",
-              "img": "https://example.com/images/orijen-original-freeze-dried.jpg",
-              "price": 65000,
-              "rating": 4.9
-            },
-            {
-              "categoryId": 5,
-              "id": 29,
-              "name": "Wellness CORE Grain-Free Cat Treats",
-              "img": "https://example.com/images/wellness-core-grain-free.jpg",
-              "price": 48000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 30,
-              "name": "Pet Naturals of Vermont Cat Treats",
-              "img": "https://example.com/images/pet-naturals-vermont.jpg",
-              "price": 38000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 31,
-              "name": "Vital Essentials Freeze-Dried Cat Treats",
-              "img": "https://example.com/images/vital-essentials-freeze-dried.jpg",
-              "price": 70000,
-              "rating": 4.9
-            },
-            {
-              "categoryId": 5,
-              "id": 32,
-              "name": "Canidae PURE Limited Ingredient Soft Cat Treats",
-              "img": "https://example.com/images/canidae-pure-soft-treats.jpg",
-              "price": 43000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 33,
-              "name": "Nature's Logic Cat Treats",
-              "img": "https://example.com/images/natures-logic-cat-treats.jpg",
-              "price": 39000,
-              "rating": 4.6
-            },
-            {
-              "categoryId": 5,
-              "id": 34,
-              "name": "Merrick Purrfect Bistro Soft Cat Treats",
-              "img": "https://example.com/images/merrick-purrfect-bistro-soft.jpg",
-              "price": 44000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 35,
-              "name": "Hill's Prescription Diet Cat Treats",
-              "img": "https://example.com/images/hills-prescription-diet.jpg",
-              "price": 50000,
-              "rating": 4.9
-            },
-            {
-              "categoryId": 5,
-              "id": 36,
-              "name": "Friskies Party Mix Original",
-              "img": "https://example.com/images/friskies-party-mix-original.jpg",
-              "price": 28000,
-              "rating": 4.5
-            },
-            {
-              "categoryId": 5,
-              "id": 37,
-              "name": "PetSafe Simply Nourish Cat Treats",
-              "img": "https://example.com/images/petsafe-simply-nourish.jpg",
-              "price": 34000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 38,
-              "name": "SmartyKat Catnip Cat Treats",
-              "img": "https://example.com/images/smartykat-catnip-treats.jpg",
-              "price": 32000,
-              "rating": 4.6
-            },
-            {
-              "categoryId": 5,
-              "id": 39,
-              "name": "Vital Essentials Freeze-Dried Cat Treats",
-              "img": "https://example.com/images/vital-essentials-freeze-dried-2.jpg",
-              "price": 75000,
-              "rating": 4.9
-            },
-            {
-              "categoryId": 5,
-              "id": 40,
-              "name": "Wellness Kittles Cat Treats",
-              "img": "https://example.com/images/wellness-kittles-2.jpg",
-              "price": 36000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 41,
-              "name": "Arden Grange Adult Treats",
-              "img": "https://example.com/images/arden-grange-adult.jpg",
-              "price": 41000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 42,
-              "name": "Lily's Kitchen Healthy Cat Treats",
-              "img": "https://example.com/images/lilys-kitchen-healthy.jpg",
-              "price": 45000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 43,
-              "name": "Canidae PURE Limited Ingredient Treats",
-              "img": "https://example.com/images/canidae-pure-limited-2.jpg",
-              "price": 43000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 44,
-              "name": "Tiki Cat Crunchy Cat Treats",
-              "img": "https://example.com/images/tiki-cat-crunchy.jpg",
-              "price": 36000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 45,
-              "name": "PetSafe Healthy Treats",
-              "img": "https://example.com/images/petsafe-healthy.jpg",
-              "price": 33000,
-              "rating": 4.6
-            },
-            {
-              "categoryId": 5,
-              "id": 46,
-              "name": "Nutro Crunchy Cat Treats",
-              "img": "https://example.com/images/nutro-crunchy.jpg",
-              "price": 37000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 47,
-              "name": "Wellness CORE Protein Cat Treats",
-              "img": "https://example.com/images/wellness-core-protein.jpg",
-              "price": 45000,
-              "rating": 4.9
-            },
-            {
-              "categoryId": 5,
-              "id": 48,
-              "name": "Blue Buffalo Bursts Cat Treats",
-              "img": "https://example.com/images/blue-buffalo-bursts.jpg",
-              "price": 41000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 49,
-              "name": "Orijen Freeze-Dried Treats",
-              "img": "https://example.com/images/orijen-freeze-dried-treats.jpg",
-              "price": 65000,
-              "rating": 4.9
-            },
-            {
-              "categoryId": 5,
-              "id": 50,
-              "name": "Merrick Purrfect Bistro Protein Cat Treats",
-              "img": "https://example.com/images/merrick-purrfect-bistro-protein.jpg",
-              "price": 42000,
-              "rating": 4.8
-            },
+           
             
               {
                 "categoryId": 6,
                 "id": 1,
-                "name": "Whiskas Meaty Selections Sausage Cat Treats",
-                "img": "https://example.com/images/whiskas-meaty-selections-sausage.jpg",
-                "price": 25000,
+                "name": "Xúc xích cho mèo vị phô mai MEOWOW Mozzarella & Taurine Stick",
+                "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-pho-mai-bowwow-mozzarella-taurine-stick-400x400.jpg",
+                "price": 65.000,
                 "rating": 4.6
               },
               {
                 "categoryId": 6,
                 "id": 2,
-                "name": "Temptations Cat Sausage Treats",
-                "img": "https://example.com/images/temptations-cat-sausage.jpg",
-                "price": 28000,
+                "name": "Xúc xích cho mèo vị cá biển BIOLINE Cat Cod Sausage",
+                "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-ca-bien-bioline-cat-cod-sausage2-400x400.jpg",
+                "price": 70.000,
                 "rating": 4.7
               },
               {
                 "categoryId": 6,
                 "id": 3,
-                "name": "PureBites Sausage Strips for Cats",
-                "img": "https://example.com/images/purebites-sausage-strips.jpg",
-                "price": 35000,
+                "name": "Xúc xích cho mèo vị cá ngừ hun khói MEOWOW Smoked Tuna Meat Stick",
+                "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-ca-ngu-hun-khoi-bowwow-smoked-tuna-meat-stick-400x400.jpg",
+                "price": 65.000,
                 "rating": 4.8
               },
               {
                 "categoryId": 6,
                 "id": 4,
-                "name": "Merrick Sausage Cat Treats",
-                "img": "https://example.com/images/merrick-sausage-treats.jpg",
-                "price": 40000,
+                "name": "Xúc xích cho mèo vị cá hồi hun khói MEOWOW Smoked Salmon Meat Stick",
+                "img": "https://www.petmart.vn/wp-content/uploads/2023/05/xuc-xich-cho-meo-vi-ca-hoi-hun-khoi-meowow-smoked-salmon-meat-stick.jpg",
+                "price": 65.000,
                 "rating": 4.7
               },
               {
                 "categoryId": 6,
                 "id": 5,
-                "name": "Canidae PURE Sausage Bites for Cats",
-                "img": "https://example.com/images/canidae-pure-sausage-bites.jpg",
-                "price": 45000,
+                "name": "Xúc xích cho chó vị phô mai BOWWOW Cheese Sausage",
+                "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-cho-vi-pho-mai-bowwow-cheese-sausage.jpg",
+                "price": 65.000,
                 "rating": 4.8
               },
-              {
-                "categoryId": 6,
-                "id": 6,
-                "name": "Natural Balance Sausage Treats for Cats",
-                "img": "https://example.com/images/natural-balance-sausage.jpg",
-                "price": 38000,
-                "rating": 4.6
-              },
-              {
-                "categoryId": 6,
-                "id": 7,
-                "name": "Hill's Science Diet Sausage Flavored Cat Treats",
-                "img": "https://example.com/images/hills-science-diet-sausage.jpg",
-                "price": 35000,
-                "rating": 4.7
-              },
-              {
-                "categoryId": 6,
-                "id": 8,
-                "name": "Orijen Freeze-Dried Sausage for Cats",
-                "img": "https://example.com/images/orijen-freeze-dried-sausage.jpg",
-                "price": 60000,
-                "rating": 4.9
-              },
-              {
-                "categoryId": 6,
-                "id": 9,
-                "name": "GimCat Sausage Treats for Cats",
-                "img": "https://example.com/images/gimcat-sausage-treats.jpg",
-                "price": 30000,
-                "rating": 4.6
-              },
-              {
-                "categoryId": 6,
-                "id": 10,
-                "name": "Pioneer Pet Sausage Bites for Cats",
-                "img": "https://example.com/images/pioneer-pet-sausage-bites.jpg",
-                "price": 42000,
-                "rating": 4.7
-              },
+              
               
                 {
                   "categoryId": 7,
                   "id": 1,
-                  "name": "Hill's Science Diet Adult Optimal Care Cat Food",
-                  "img": "https://example.com/images/hills-science-diet-adult-optimal-care.jpg",
-                  "price": 65000,
+                  "name": "Gel dinh dưỡng cho mèo BIOLINE Integrated Nutrition Supplements Gel",
+                  "img": "https://www.petmart.vn/wp-content/uploads/2019/04/gel-dinh-duong-cho-meo-bioline-nutrition-supplement-gel-400x400.jpg",
+                  "price": 170.000,
                   "rating": 4.8
                 },
                 {
                   "categoryId": 7,
                   "id": 2,
-                  "name": "Royal Canin Feline Health Nutrition Indoor Adult",
-                  "img": "https://example.com/images/royal-canin-feline-health.jpg",
-                  "price": 70000,
+                  "name": "Bột dinh dưỡng Canxi cho chó mèo PAW Chondroitin Calcium Powder",
+                  "img": "https://www.petmart.vn/wp-content/uploads/2017/09/bot-dinh-duong-canxi-cho-cho-meo-paw-chondroitin-calcium-powder-400x400.jpg",
+                  "price": 230.000,
                   "rating": 4.7
                 },
                 {
                   "categoryId": 7,
                   "id": 3,
-                  "name": "Wellness CORE Grain-Free Turkey & Chicken Cat Food",
-                  "img": "https://example.com/images/wellness-core-grain-free-turkey-chicken.jpg",
-                  "price": 75000,
+                  "name": "Gel dinh dưỡng cho mèo con GIMCAT Kitten Paste",
+                  "img": "https://www.petmart.vn/wp-content/uploads/2023/04/gel-dinh-duong-cho-meo-con-gimcat-kitten-paste.jpg",
+                  "price": 200.000,
                   "rating": 4.9
                 },
                 {
                   "categoryId": 7,
                   "id": 4,
-                  "name": "Blue Buffalo Wilderness High-Protein, Grain-Free",
-                  "img": "https://example.com/images/blue-buffalo-wilderness-high-protein.jpg",
-                  "price": 80000,
+                  "name": "Gel dinh dưỡng cho mèo hỗ trợ miễn dịch GIMCAT Multi-Vitamin Paste",
+                  "img": "https://www.petmart.vn/wp-content/uploads/2023/04/gel-dinh-duong-cho-meo-ho-tro-mien-dich-gimcat-multi-vitamin-paste.jpg",
+                  "price": 190.000,
                   "rating": 4.8
                 },
                 {
                   "categoryId": 7,
                   "id": 5,
-                  "name": "Iams ProActive Health Adult Indoor Cat Food",
-                  "img": "https://example.com/images/iams-proactive-health-adult.jpg",
-                  "price": 60000,
+                  "name": "Gel dinh dưỡng cho mèo trị tiêu búi lông GIMCAT Malt-Soft Extra",
+                  "img": "https://www.petmart.vn/wp-content/uploads/2023/04/gel-dinh-duong-cho-meo-tri-tieu-bui-long-gimcat-malt-soft-extra.jpg",
+                  "price": 190.000,
                   "rating": 4.7
                 },
-                {
-                  "categoryId": 7,
-                  "id": 6,
-                  "name": "Nutro Wholesome Essentials Indoor Cat Food",
-                  "img": "https://example.com/images/nutro-wholesome-essentials-indoor.jpg",
-                  "price": 55000,
-                  "rating": 4.6
-                },
-                {
-                  "categoryId": 7,
-                  "id": 7,
-                  "name": "Orijen Original Cat Food",
-                  "img": "https://example.com/images/orijen-original-cat-food.jpg",
-                  "price": 120000,
-                  "rating": 5.0
-                },
-                {
-                  "categoryId": 7,
-                  "id": 8,
-                  "name": "Acana Singles + Wholesome Grains Cat Food",
-                  "img": "https://example.com/images/acana-singles-wholesome-grains.jpg",
-                  "price": 85000,
-                  "rating": 4.8
-                },
-                {
-                  "categoryId": 7,
-                  "id": 9,
-                  "name": "Merrick Grain-Free Salmon & Sweet Potato Cat Food",
-                  "img": "https://example.com/images/merrick-grain-free-salmon.jpg",
-                  "price": 70000,
-                  "rating": 4.7
-                },
-                {
-                  "categoryId": 7,
-                  "id": 10,
-                  "name": "Taste of the Wild Rocky Mountain Feline Recipe",
-                  "img": "https://example.com/images/taste-of-the-wild-rocky-mountain.jpg",
-                  "price": 75000,
-                  "rating": 4.8
-                },
+              
                 
                   {
                     "categoryId": 8,
                     "id": 1,
-                    "name": "Petstages Cat Grass",
-                    "img": "https://example.com/images/petstages-cat-grass.jpg",
-                    "price": 25000,
+                    "name": "Catnip cho mèo dạng khô BIOLINE Catnip Invigorating",
+                    "img": "https://www.petmart.vn/wp-content/uploads/2021/06/catnip-cho-meo-dang-kho-bioline-catnip-invigorating-400x400.jpg",
+                    "price": 40.000,
                     "rating": 4.6
                   },
                   {
                     "categoryId": 8,
                     "id": 2,
-                    "name": "Catit Cat Grass Planter",
-                    "img": "https://example.com/images/catit-cat-grass-planter.jpg",
-                    "price": 30000,
+                    "name": "Hạt giống trồng cỏ tươi cho mèo BIOLINE Cat Grass Kit",
+                    "img": "https://www.petmart.vn/wp-content/uploads/2016/04/hat-giong-trong-co-tuoi-cho-meo-bioline-cat-grass-kit4-400x400.jpg",
+                    "price": 120.000,
                     "rating": 4.7
                   },
                   {
                     "categoryId": 8,
                     "id": 3,
-                    "name": "SmartyKat Catnip and Grass Combo",
-                    "img": "https://example.com/images/smartykat-catnip-grass-combo.jpg",
-                    "price": 28000,
+                    "name": "Catnip cho mèo dạng que BIOLINE Catnip Dental Stick",
+                    "img": "https://www.petmart.vn/wp-content/uploads/2019/05/catnip-cho-meo-bioline-catnip-dental-stick-400x400.jpg",
+                    "price": 50.000,
                     "rating": 4.5
                   },
                   {
                     "categoryId": 8,
                     "id": 4,
-                    "name": "Dr. Catsby's Cat Grass Kit",
-                    "img": "https://example.com/images/dr-catsbys-cat-grass-kit.jpg",
-                    "price": 35000,
+                    "name": "Hạt giống trồng cỏ tươi cho mèo BIOLINE Cat Grass Kit",
+                    "img": "https://www.petmart.vn/wp-content/uploads/2016/04/hat-giong-trong-co-tuoi-cho-meo-bioline-cat-grass-kit4-400x400.jpg",
+                    "price": 120.000,
                     "rating": 4.8
                   },
                   {
                     "categoryId": 8,
                     "id": 5,
-                    "name": "Nature's Logic Organic Cat Grass",
-                    "img": "https://example.com/images/natures-logic-organic-cat-grass.jpg",
-                    "price": 27000,
+                    "name": "Catnip cho mèo dạng khô BIOLINE Catnip Invigorating",
+                    "img": "https://www.petmart.vn/wp-content/uploads/2021/06/catnip-cho-meo-dang-kho-bioline-catnip-invigorating-400x400.jpg",
+                    "price": 40.000,
                     "rating": 4.7
                   }
                 
