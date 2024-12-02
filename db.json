@@ -1,55 +1,53 @@
 {
-"categories": [
-{
-"id": 1,
-"name": "Hạt cho mèo",
-"img": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-400x400.jpg"
-},
-{
-"id": 2,
-"name": "Pate cho mèo",
-"img": "https://www.petmart.vn/wp-content/uploads/2020/12/pate-cho-meo-vi-thit-tron-catidea-variety-meat-400x400.jpg"
-},
-{
-"id": 3,
-"name": "Súp thưởng cho mèo",
-"img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-tuna-salmon-vi-uc-ga-va-tom-300x300.jpg"
-},
-{
-"id": 4,
-"name": "Sữa cho mèo",
-"img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-meo-it-beo-dr-holi-cat-milk-300x300.jpg"
-},
-{
-"id": 5,
-"name": "Bánh thưởng cho mèo",
-"img": "https://www.petmart.vn/wp-content/uploads/2016/07/banh-thuong-cho-meo-vi-ca-hoi-jerhigh-jinny-salmon-flavored-300x300.jpg"
-},
-{
-"id": 6,
-"name": "Súc xích cho mèo",
-"img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-pho-mai-bowwow-mozzarella-taurine-stick-300x300.jpg"
-},
-
-{
-"id": 7,
-"name": "Dinh dưỡng cho mèo",
-"img": "https://www.petmart.vn/wp-content/uploads/2017/09/bot-dinh-duong-canxi-cho-cho-meo-paw-chondroitin-calcium-powder-300x300.jpg"
-},
-{
-"id": 8,
-"name": "Cỏ cho mèo",
-"img": "https://www.petmart.vn/wp-content/uploads/2021/06/catnip-cho-meo-dang-kho-bioline-catnip-invigorating-300x300.jpg"
-}
-],
-"products": [
-  
+  "categories": [
+    {
+      "id": 1,
+      "name": "Hạt cho mèo",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair-400x400.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pate cho mèo",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/pate-cho-meo-vi-thit-tron-catidea-variety-meat-400x400.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Súp thưởng cho mèo",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-tuna-salmon-vi-uc-ga-va-tom-300x300.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sữa cho mèo",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-meo-it-beo-dr-holi-cat-milk-300x300.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bánh thưởng cho mèo",
+      "img": "https://www.petmart.vn/wp-content/uploads/2016/07/banh-thuong-cho-meo-vi-ca-hoi-jerhigh-jinny-salmon-flavored-300x300.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Súc xích cho mèo",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-pho-mai-bowwow-mozzarella-taurine-stick-300x300.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Dinh dưỡng cho mèo",
+      "img": "https://www.petmart.vn/wp-content/uploads/2017/09/bot-dinh-duong-canxi-cho-cho-meo-paw-chondroitin-calcium-powder-300x300.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Cỏ cho mèo",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/catnip-cho-meo-dang-kho-bioline-catnip-invigorating-300x300.jpg"
+    }
+  ],
+  "products": [
     {
       "categoryId": 1,
       "id": 1,
       "name": "Thức ăn cho mèo con ROYAL CANIN Kitten",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten-400x400.jpg",
-      "price": 130.000,
+      "price": 130000,
       "rating": 4.5
     },
     {
@@ -57,7 +55,7 @@
       "id": 2,
       "name": "Thức ăn cho mèo trưởng thành ROYAL CANIN Indoor 27",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-truong-thanh-royal-canin-indoor-27-400x400.jpg",
-      "price": 125.000,
+      "price": 125000,
       "rating": 4.7
     },
     {
@@ -65,7 +63,7 @@
       "id": 3,
       "name": "Thức ăn cho mèo con và mèo mẹ ROYAL CANIN Mother & Babycat",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-va-meo-me-royal-canin-mother-babycat.jpg",
-      "price": 130.000,
+      "price": 130000,
       "rating": 4.5
     },
     {
@@ -73,7 +71,7 @@
       "id": 4,
       "name": "Thức ăn cho mèo trưởng thành ROYAL CANIN Regular Fit 32",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-truong-thanh-royal-canin-regular-fit-321.jpg",
-      "price": 115.000,
+      "price": 115000,
       "rating": 4.6
     },
     {
@@ -81,7 +79,7 @@
       "id": 5,
       "name": "Thức ăn cho mèo tiêu hóa búi lông ROYAL CANIN Hairball Care",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-tieu-hoa-bui-long-royal-canin-hairball-care1.jpg",
-      "price": 140.000,
+      "price": 140000,
       "rating": 4.4
     },
     {
@@ -89,7 +87,7 @@
       "id": 6,
       "name": "Thức ăn cho mèo Anh lông ngắn trưởng thành ROYAL CANIN British Shorthair Adult",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-anh-long-ngan-truong-thanh-royal-canin-british-shorthair-adult1.jpg",
-      "price": 145.000,
+      "price": 145000,
       "rating": 4.8
     },
     {
@@ -97,7 +95,7 @@
       "id": 7,
       "name": "Thức ăn cho mèo trưởng thành CATIDEA Fairy Chef Adult Nutrition",
       "img": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-truong-thanh-catidea-fairy-chef-adult-nutrition.jpg",
-      "price": 280.000,
+      "price": 280000,
       "rating": 4.9
     },
     {
@@ -105,7 +103,7 @@
       "id": 8,
       "name": "Thức ăn cho mèo Anh lông ngắn CATIDEA Fairy Chef British Shorthair",
       "img": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-anh-long-ngan-catidea-fairy-chef-british-shorthair.jpg",
-      "price": 315.000,
+      "price": 315000,
       "rating": 4.7
     },
     {
@@ -113,7 +111,7 @@
       "id": 9,
       "name": "Thức ăn cho mèo dưỡng đẹp lông ROYAL CANIN Hair & Skin",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-duong-dep-long-royal-canin-hair-skin1.jpg",
-      "price": 140.000,
+      "price": 140000,
       "rating": 4.6
     },
     {
@@ -121,7 +119,7 @@
       "id": 10,
       "name": "Thức ăn cho mèo Anh lông ngắn con ROYAL CANIN British Shorthair Kitten",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-anh-long-ngan-con-royal-canin-british-shorthair-kitten1.jpg",
-      "price": 150.000,
+      "price": 150000,
       "rating": 4.5
     },
     {
@@ -129,7 +127,7 @@
       "id": 11,
       "name": "Thức ăn cho mèo mẹ và mèo con CATIDEA Fairy Chef Mother & Baby",
       "img": "https://www.petmart.vn/wp-content/uploads/2020/11/thuc-an-cho-meo-me-va-meo-con-catidea-fairy-chef-mother-baby.jpg",
-      "price": 320.000,
+      "price": 320000,
       "rating": 4.7
     },
     {
@@ -137,15 +135,15 @@
       "id": 12,
       "name": "Thức ăn cho mèo giúp loại bỏ búi lông ZENITH Cat Hairball",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/05/zenith-cat-hairball.jpg",
-      "price": 270.000,
-      "rating": 5.0
+      "price": 270000,
+      "rating": 5
     },
     {
       "categoryId": 1,
       "id": 13,
       "name": "Thức ăn cho mèo mọi lứa tuổi CATIDEA Basic Meat All Age",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-moi-lua-tuoi-catidea-basic-meat-all-age.jpg",
-      "price": 540.000,
+      "price": 540000,
       "rating": 4.5
     },
     {
@@ -153,7 +151,7 @@
       "id": 14,
       "name": "Thức ăn sấy khô cho mèo thịt thật CATIDEA Fairy Chef Freeze Dried Raw",
       "img": "https://www.petmart.vn/wp-content/uploads/2023/03/banh-thuong-cho-meo-thit-that-fairy-chef-freeze-dried-raw-6in1.jpg",
-      "price": 155.000,
+      "price": 155000,
       "rating": 4.6
     },
     {
@@ -161,7 +159,7 @@
       "id": 15,
       "name": "Thức ăn cho mèo mọi lứa tuổi CATIDEA Basic Meat Freeze Dried",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-catidea-basic-meat-freeze-dried.jpg",
-      "price": 580.000,
+      "price": 580000,
       "rating": 4.7
     },
     {
@@ -169,7 +167,7 @@
       "id": 16,
       "name": "Thức ăn cho mèo NATURAL CORE Bene Chicken Salmon",
       "img": "https://www.petmart.vn/wp-content/uploads/2023/05/thuc-an-cho-meo-natural-core-bene-chicken-salmon.jpg",
-      "price": 250.000,
+      "price": 250000,
       "rating": 4.5
     },
     {
@@ -177,7 +175,7 @@
       "id": 17,
       "name": "Thức ăn cho mèo mẹ và mèo con CATIDEA Basic Meat Kittens",
       "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-me-va-meo-con-catidea-basic-meat-kitten.jpg",
-      "price": 650.000,
+      "price": 650000,
       "rating": 4.8
     },
     {
@@ -185,7 +183,7 @@
       "id": 18,
       "name": "Thức ăn cho mèo hữu cơ đa đạm NATURAL CORE Multi Protein Recipe",
       "img": "https://www.petmart.vn/wp-content/uploads/2023/05/thuc-an-cho-meo-huu-co-da-dam-natural-core-multi-protein-recipe.jpg",
-      "price": 160.000,
+      "price": 160000,
       "rating": 4.6
     },
     {
@@ -193,7 +191,7 @@
       "id": 19,
       "name": "Thức ăn cho mèo con NATURAL CORE Bene Kitten Multi Protein",
       "img": "https://www.petmart.vn/wp-content/uploads/2023/05/thuc-an-cho-meo-con-natural-core-kitten-multi-protein.jpg",
-      "price": 320.000,
+      "price": 320000,
       "rating": 4.5
     },
     {
@@ -201,7 +199,7 @@
       "id": 20,
       "name": "Thức ăn cho mèo đẹp lông vị cá hồi PURINA PRO PLAN Fussy Beauty",
       "img": "https://www.petmart.vn/wp-content/uploads/2023/08/thuc-an-cho-meo-dep-long-vi-ca-hoi-purina-pro-plan-fussy-beauty.jpg",
-      "price": 525.000,
+      "price": 525000,
       "rating": 4.9
     },
     {
@@ -209,7 +207,7 @@
       "id": 21,
       "name": "Thức ăn cho mèo vị cá hồi cá ngừ PURINA PRO PLAN Sensitive Skin Stomach",
       "img": "https://www.petmart.vn/wp-content/uploads/2023/08/thuc-an-cho-meo-vi-ca-hoi-ca-ngu-purina-pro-plan-sensitive-skin-stomach.jpg",
-      "price": 520.000,
+      "price": 520000,
       "rating": 4.7
     },
     {
@@ -217,7 +215,7 @@
       "id": 22,
       "name": "Thức ăn cho mèo vị thịt gà PURINA PRO PLAN Adult Chicken Formula",
       "img": "https://www.petmart.vn/wp-content/uploads/2023/08/thuc-an-cho-meo-vi-thit-ga-purina-pro-plan-adult-chicken-formula.jpg",
-      "price": 400.000,
+      "price": 400000,
       "rating": 4.9
     },
     {
@@ -233,7 +231,7 @@
       "id": 24,
       "name": "Thức ăn cho mèo con vị cá hồi cá ngừ PURINA PRO PLAN Kitten Starter",
       "img": "https://www.petmart.vn/wp-content/uploads/2023/08/thuc-an-cho-meo-con-vi-ca-hoi-ca-ngu-purina-pro-plan-kitten-starter.jpg",
-      "price": 500.000,
+      "price": 500000,
       "rating": 4.9
     },
     {
@@ -241,958 +239,823 @@
       "id": 25,
       "name": "Thức ăn cho mèo vị cá hồi PURINA PRO PLAN Adult Salmon Formula",
       "img": "https://www.petmart.vn/wp-content/uploads/2023/08/thuc-an-cho-meo-vi-ca-hoi-purina-pro-plan-adult-salmon-formula-400x400.jpg",
-      "price": 525.000,
+      "price": 525000,
       "rating": 4.7
+    },
+    {
+      "categoryId": 2,
+      "id": 1,
+      "name": "Pate cho mèo vị cá ngừ nguyên chất CAT SEA FISH Pure Tuna Meat",
+      "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-ngu-nguyen-chat-cat-sea-fish-pure-tuna-meat-400x400.jpg",
+      "price": 30000,
+      "rating": 4.5
+    },
+    {
+      "categoryId": 2,
+      "id": 2,
+      "name": "Pate cho mèo vị nước sốt cá ngừ WHISKAS Tuna Flavour Sauce",
+      "img": "https://www.petmart.vn/wp-content/uploads/2013/05/pate-cho-meo-vi-nuoc-sot-ca-ngu-whiskas-tuna-flavour-sauce1-400x400.jpg",
+      "price": 25000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 2,
+      "id": 3,
+      "name": "Pate cho mèo mẹ và mèo con CATIDEA Mother & Baby Cat",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/pate-cho-meo-me-va-meo-con-catidea-mother-baby-cat.jpg",
+      "price": 35000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 2,
+      "id": 4,
+      "name": "Pate cho mèo vị cá ngừ thanh cua CAT SEA FISH Tuna Surimi",
+      "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-ngu-thit-cua-cat-sea-fish-tuna-surimi.jpg",
+      "price": 30000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 2,
+      "id": 5,
+      "name": "Pate cho mèo CIAO Tuna & Whitebait vị cá ngừ và cá chạch trắng",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/pate-cho-meo-ciao-tuna-whitebait-ca-ngu-va-ca-chach-trang.jpg",
+      "price": 27000,
+      "rating": 4.4
+    },
+    {
+      "categoryId": 2,
+      "id": 6,
+      "name": "Pate cho mèo vị cá ngừ cá thu CAT SEA FISH Tuna Mackerel",
+      "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-ngu-ca-thu-cat-sea-fish-tuna-mackerel.jpg",
+      "price": 30000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 2,
+      "id": 7,
+      "name": "Pate cho mèo vị cá ngừ cá cơm CAT SEA FISH Tuna Anchovy",
+      "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-com-cat-sea-fish-tuna-anchovy.jpg",
+      "price": 30000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 2,
+      "id": 8,
+      "name": "Pate cho mèo CIAO Tuna & Salmon vị cá ngừ và cá hồi",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/pate-cho-meo-ciao-tuna-salmon-vi-ca-ngu-va-ca-hoi.jpg",
+      "price": 20000,
+      "rating": 4.5
+    },
+    {
+      "categoryId": 2,
+      "id": 9,
+      "name": "Pate cho mèo vị cá ngừ trộn thịt cua IRIS OHYAMA Tuna Crab",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ca-ngu-tron-thit-cua-iris-tuna-crab.jpg",
+      "price": 35000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 2,
+      "id": 10,
+      "name": "Sốt pate cho mèo CIAO vị cá ngừ nướng và sò điệp",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sot-pate-cho-meo-ciao-vi-ca-ngu-nuong-va-so-diep.jpg",
+      "price": 20000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 2,
+      "id": 11,
+      "name": "Pate cho mèo vị gà và cá ngừ IRIS OHYAMA Delicacy Tuna Chicken",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ga-va-ca-ngu-iris-delicacy-tuna-chicken.jpg",
+      "price": 35000,
+      "rating": 4.9
+    },
+    {
+      "categoryId": 2,
+      "id": 12,
+      "name": "Pate cho mèo vị cá ngừ IRIS OHYAMA Delicacy Tuna Bonito Fish",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ca-ngu-iris-delicacy.jpg",
+      "price": 35000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 2,
+      "id": 13,
+      "name": "Nước sốt pate cho mèo CIAO vị ức gà và thanh cua",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/nuoc-sot-pate-cho-meo-ciao-vi-uc-ga-va-thanh-cua.jpg",
+      "price": 35000,
+      "rating": 4.9
+    },
+    {
+      "categoryId": 2,
+      "id": 14,
+      "name": "Pate cho mèo vị cá ngừ trộn thịt gà IRIS OHYAMA Tuna Chicken",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ca-ngu-tron-thit-ga-iris-tuna-chicken.jpg",
+      "price": 35000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 2,
+      "id": 15,
+      "name": "Thịt ức gà nướng sốt canh gà cho mèo CIAO Chicken Broth",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/thit-uc-ga-nuong-sot-canh-ga-cho-meo-ciao-chicken-broth.jpg",
+      "price": 30000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 2,
+      "id": 16,
+      "name": "Nước sốt pate cho mèo CIAO vị ức gà & sò điệp",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/nuoc-sot-pate-cho-meo-ciao-vi-uc-ga-so-diep-400x400.jpg",
+      "price": 35000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 2,
+      "id": 17,
+      "name": "Nước sốt pate cho mèo CIAO vị cá ngừ và mực biển",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/nuoc-sot-pate-cho-meo-ciao-vi-ca-ngu-va-muc-bien.jpg",
+      "price": 35000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 2,
+      "id": 18,
+      "name": "Pate cho mèo vị cá ngừ và thịt gà IRIS OHYAMA Tuna Chicken",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/pate-cho-meo-vi-ca-ngu-va-thit-ga-iris-tuna-chicken.jpg",
+      "price": 25000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 2,
+      "id": 19,
+      "name": "Sốt pate cho mèo CIAO vị cá ngừ nướng, thanh sò điệp và bột cá ngừ",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sot-pate-cho-meo-ciao-vi-ca-ngu-nuong-thanh-so-diep-va-bot-ca-ngu.jpg",
+      "price": 20000,
+      "rating": 4.5
+    },
+    {
+      "categoryId": 2,
+      "id": 20,
+      "name": "Thịt ức gà nướng sốt sò điệp cho mèo CIAO Scallop",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/thit-uc-ga-nuong-sot-so-diep-cho-meo-ciao-scallop.jpg",
+      "price": 30000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 2,
+      "id": 21,
+      "name": "Pate cho mèo vị cá ngừ IRIS OHYAMA Tuna",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/pate-cho-meo-vi-ca-ngu-iris-tuna.jpg",
+      "price": 55000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 2,
+      "id": 22,
+      "name": "Thịt cá chép nướng sốt sò điệp CIAO cho mèo",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/thit-ca-chep-nuong-sot-so-diep-ciao-cho-meo.jpg",
+      "price": 30000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 2,
+      "id": 23,
+      "name": "Pate cho mèo vị gà, cá ngừ và cá bào CIAO Chicken, Tuna & Bonito Flakes",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/pate-cho-meo-vi-ga-ca-ngu-va-ca-bao-ciao-chicken-tuna-bonito-flakes-400x400.jpg",
+      "price": 35000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 2,
+      "id": 24,
+      "name": "Pate cho mèo vị gà, cá ngừ và sò CIAO Chicken, Tuna & Scallop",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/pate-cho-meo-vi-gan-ca-ngu-va-so-ciao-chicken-tuna-scallop.jpg",
+      "price": 35000,
+      "rating": 4.5
+    },
+    {
+      "categoryId": 2,
+      "id": 25,
+      "name": "Pate cho mèo con vị thịt gà PURINA PRO PLAN Kitten Chicken Jelly",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/08/pate-cho-meo-con-vi-thit-ga-purina-pro-plan-kitten-chicken-jelly2.jpg",
+      "price": 45000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 3,
+      "id": 1,
+      "name": "Súp thưởng cho mèo CIAO Hairball Control vị thịt gà tiêu búi lông",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-hairball-control-tieu-bui-long-400x400.jpg",
+      "price": 40000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 3,
+      "id": 2,
+      "name": "Soup cho mèo CIAO Grilled Tuna vị cá ngừ nướng",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/soup-cho-meo-ciao-grilled-tuna-vi-ca-ngu-nuong-400x401.jpg",
+      "price": 50000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 3,
+      "id": 3,
+      "name": "Soup cho mèo CIAO Scallop & Chicken vị sò điệp và thịt gà",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/soup-cho-meo-ciao-scallop-chicken-vi-so-diep-va-thit-ga-400x400.jpg",
+      "price": 25000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 3,
+      "id": 4,
+      "name": "Soup cho mèo CIAO Tuna, Whitebait & Chicken vị cá ngừ, cá mồi và gà",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/soup-cho-meo-ciao-tuna-whitebait-chicken-vi-ca-ngu-ca-moi-va-ga.jpg",
+      "price": 25000,
+      "rating": 4.5
+    },
+    {
+      "categoryId": 3,
+      "id": 5,
+      "name": "Súp thưởng cho mèo CIAO Tuna vị cá ngừ đại dương",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-tuna-vi-ca-ngu-dai-duong.jpg",
+      "price": 175000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 3,
+      "id": 6,
+      "name": "Súp thưởng cho mèo CIAO Tuna vị cá ngừ biển",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-tuna-vi-ca-ngu.jpg",
+      "price": 47000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 3,
+      "id": 7,
+      "name": "Súp thưởng cho mèo CIAO Scallop vị ngao sò",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-scallop-vi-ngao-so.jpg",
+      "price": 40000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 3,
+      "id": 8,
+      "name": "Súp thưởng cho mèo vị cá ngừ hải sản CIAO Tuna & Seafood ",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/sup-thuong-cho-meo-vi-ca-ngu-hai-san-ciao-tuna-seafood.jpg",
+      "price": 175000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 3,
+      "id": 9,
+      "name": "Súp thưởng cho mèo vị cá hồi IRIS OHYAMA Salmon Soup",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ca-hoi-iris-salmon-soup8.jpg",
+      "price": 55000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 3,
+      "id": 10,
+      "name": "Súp thưởng cho mèo vị cá ngừ IRIS OHYAMA Tuna Soup",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ca-ngu-iris-tuna-soup5.jpg",
+      "price": 55000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 3,
+      "id": 11,
+      "name": "Súp thưởng cho mèo CIAO Bonito & Scallop vị cá bào và ngao sò",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-bonito-scallop-vi-ca-ngu-va-ngao-so.jpg",
+      "price": 175000,
+      "rating": 4.9
+    },
+    {
+      "categoryId": 3,
+      "id": 12,
+      "name": "Súp thưởng cho mèo vị cá thu IRIS OHYAMA Bonito Soup",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ca-thu-iris-bonito-soup.jpg",
+      "price": 55000,
+      "rating": 4.9
+    },
+    {
+      "categoryId": 3,
+      "id": 13,
+      "name": "Súp thưởng cho mèo vị cá ngừ CIAO Tuna Recipe",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/sup-thuong-cho-meo-vi-ca-ngu-ciao-tuna-recipe.jpg",
+      "price": 47000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 3,
+      "id": 14,
+      "name": "Súp thưởng cho mèo vị thịt gà BIOLINE Chicken Flavor",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-thit-ga-bioline-chicken-flavor.jpg",
+      "price": 65000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 3,
+      "id": 15,
+      "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Tuna Salmon",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-tuna-salmon.jpg",
+      "price": 50000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 3,
+      "id": 16,
+      "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Tuna Hairball",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-tuna-hairball.jpg",
+      "price": 40000,
+      "rating": 4.9
+    },
+    {
+      "categoryId": 3,
+      "id": 17,
+      "name": "Súp thưởng cho mèo vị cá ngừ dầu cá BIOLINE Tuna Fish Oil",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-dau-ca-bioline-tuna-fish-oil.jpg",
+      "price": 45000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 3,
+      "id": 18,
+      "name": "Súp thưởng cho mèo vị cá ngừ cá hồi BIOLINE Tuna Salmon",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-ca-hoi-bioline-tuna-salmon.jpg",
+      "price": 60000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 3,
+      "id": 19,
+      "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Chicken Breast Shrimp",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-chicken-breast-shrimp.jpg",
+      "price": 40000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 3,
+      "id": 20,
+      "name": "Súp thưởng cho mèo vị cá ngừ sò điệp BIOLINE Tuna Scallop",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-so-diep-bioline-tuna-scallop.jpg",
+      "price": 50000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 3,
+      "id": 21,
+      "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Tuna Crab Meat",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-tuna-crab-meat.jpg",
+      "price": 40000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 3,
+      "id": 22,
+      "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Salmon Seabream",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-salmon-seabream.jpg",
+      "price": 40000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 3,
+      "id": 23,
+      "name": "Súp thưởng cho mèo vị cá ngừ vây vàng BIOLINE Yellowfin Tuna",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-vay-vang-bioline-yellowfin-tuna.jpg",
+      "price": 49000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 3,
+      "id": 24,
+      "name": "Súp thưởng cho mèo vị gà và tôm IRIS OHYAMA Chicken Shrimp Soup",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ga-va-tom-iris-chicken-shrimp-soup1.jpg",
+      "price": 55000,
+      "rating": 4.5
+    },
+    {
+      "categoryId": 3,
+      "id": 25,
+      "name": "Súp thưởng cho mèo vị cá ngừ vây vàng sò điệp BIOLINE Yellowfin Tuna Scallop",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-vay-vang-so-diep-bioline-yellowfin-tuna-scallop.jpg",
+      "price": 50000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 4,
+      "id": 1,
+      "name": "Bình sữa cho chó mèo sơ sinh BOBO Pet Milk Bottle",
+      "img": "https://www.petmart.vn/wp-content/uploads/2013/07/binh-sua-cho-cho-meo-so-sinh-bobo-pet-milk-bottle-400x400.jpg",
+      "price": 50000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 4,
+      "id": 2,
+      "name": "Sữa bột cho mèo con BBN Kitten Milk",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/Wholesale-natural-pet-new-products-380g-milk-400x400.jpg",
+      "price": 320000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 4,
+      "id": 3,
+      "name": "Sữa tươi cho mèo ít béo DR HOLI Cat Milk",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-meo-it-beo-dr-holi-cat-milk-400x400.jpg",
+      "price": 90000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 4,
+      "id": 4,
+      "name": "Sữa tươi cho mèo con ít béo DR HOLI Cat Kitten Milk",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/12/sua-tuoi-cho-meo-con-it-beo-dr-holi-cat-kitten-milk.jpg",
+      "price": 90000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 4,
+      "id": 5,
+      "name": "Sữa tươi cho chó mèo ít béo DR HOLI Pet Milk Vanilla",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-cho-meo-it-beo-dr-holi-pet-milk-vanilla.jpg",
+      "price": 90000,
+      "rating": 4.5
+    },
+    {
+      "categoryId": 4,
+      "id": 6,
+      "name": "Sữa cho chó mèo tươi ngon uống liền BIOLINE Pet Milk",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sua-cho-cho-meo-tuoi-ngon-uong-lien-bioline-pet-milk.jpg",
+      "price": 60000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 4,
+      "id": 7,
+      "name": "Sữa tươi cho chó mèo ít béo DR HOLI Pet Milk Red Ginseng",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-cho-meo-it-beo-dr-holi-pet-milk-red-ginseng.jpg",
+      "price": 80000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 4,
+      "id": 8,
+      "name": "Bình sữa cho chó mèo con sơ sinh bú PAW Pet Silicone Milk Bottle",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/05/binh-sua-cho-cho-meo-con-so-sinh-bu-paw-pet-silicone-milk-bottle.jpg",
+      "price": 50000,
+      "rating": 4.9
+    },
+    {
+      "categoryId": 4,
+      "id": 9,
+      "name": "Sữa tươi cho chó mèo ít béo DR HOLI Pet Milk Mango",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-cho-meo-it-beo-dr-holi-pet-milk-mango.jpg",
+      "price": 90000,
+      "rating": 4
+    },
+    {
+      "categoryId": 4,
+      "id": 10,
+      "name": "Sữa bột cho chó mèo con, chó mèo mẹ đang mang thai BIOLINE Goat Milk",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sua-bot-cho-cho-meo-con-bioline-goat-milk.jpg",
+      "price": 320000,
+      "rating": 4.5
+    },
+    {
+      "categoryId": 5,
+      "id": 1,
+      "name": "Bánh thưởng cho mèo vị cá hồi JERHIGH Jinny Salmon",
+      "img": "https://www.petmart.vn/wp-content/uploads/2016/07/banh-thuong-cho-meo-vi-ca-hoi-jerhigh-jinny-salmon-flavored-400x400.jpg",
+      "price": 45000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 5,
+      "id": 2,
+      "name": "Bánh thưởng cho mèo vị cá ngừ JERHIGH Jinny Tuna",
+      "img": "https://www.petmart.vn/wp-content/uploads/2016/07/banh-thuong-cho-meo-vi-ca-ngu-jerhigh-jinny-tuna-flavored-400x400.jpg",
+      "price": 45000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 5,
+      "id": 3,
+      "name": "Bánh thưởng cho mèo làm sạch răng MEOW FUN Teeth Cleaning",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-lam-sach-rang-meow-fun-teeth-cleaning-400x400.jpg",
+      "price": 50000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 5,
+      "id": 4,
+      "name": "Bánh thưởng cho mèo vị thịt gà JERHIGH Jinny Chicken",
+      "img": "https://www.petmart.vn/wp-content/uploads/2016/07/snack-cho-meo-jerhigh-jinny-chicken-2018.jpg",
+      "price": 45000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 5,
+      "id": 5,
+      "name": "Bánh thưởng cho mèo CIAO vị cá ngừ và thịt gà nướng",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/banh-thuong-cho-meo-ciao-vi-ca-ngu-va-thit-ga.jpg",
+      "price": 55000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 5,
+      "id": 6,
+      "name": "Bánh thưởng cho mèo vị thập cẩm JERHIGH Jinny Gourmet",
+      "img": "https://www.petmart.vn/wp-content/uploads/2016/07/snack-cho-meo-jerhigh-jinny-gourmet-2018.jpg",
+      "price": 45000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 5,
+      "id": 7,
+      "name": "Snack bánh thưởng cho mèo CIAO Seafood Scallop vị hải sản sò điệp",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/snack-banh-thuong-cho-meo-ciao-seafood-scallop-vi-hai-san-so-diep.jpg",
+      "price": 35000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 5,
+      "id": 8,
+      "name": "Bánh thưởng cho mèo vị hải sản JERHIGH Jinny Seafood",
+      "img": "https://www.petmart.vn/wp-content/uploads/2016/07/snack-cho-meo-jerhigh-jinny-seafood-2018.jpg",
+      "price": 45000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 5,
+      "id": 9,
+      "name": "Bánh thưởng cho mèo vị cá ngừ VEGEBRAND Orgo Cat Treats Tuna Fish",
+      "img": "https://www.petmart.vn/wp-content/uploads/2014/10/banh-thuong-cho-meo-vi-ca-ngu-vegebrand-orgo-cat-treats-tuna-fish.jpg",
+      "price": 50000,
+      "rating": 4.5
+    },
+    {
+      "categoryId": 5,
+      "id": 10,
+      "name": "Bánh thưởng cho mèo Anh lông ngắn MEOW FUN Oral Care British Shorthair",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-anh-long-ngan-meow-fun-oral-care-british-shorthair.jpg",
+      "price": 50000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 5,
+      "id": 11,
+      "name": "Bánh thưởng cho mèo CIAO vị thịt ức gà",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/banh-thuong-cho-meo-ciao-vi-thit-uc-ga.jpg",
+      "price": 55000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 5,
+      "id": 12,
+      "name": "Bánh thưởng cho mèo vị gan & thịt VEGEBRAND Orgo Cat Treats Poultry Liver",
+      "img": "https://www.petmart.vn/wp-content/uploads/2014/10/banh-thuong-cho-meo-vi-gan-thit-vegebrand-orgo-cat-treats-poultry-liver.jpg",
+      "price": 50000,
+      "rating": 4.9
+    },
+    {
+      "categoryId": 5,
+      "id": 13,
+      "name": "Bánh thưởng cho mèo vị thịt bò và phô mai MEOW FUN Cheese Beef",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-thit-bo-va-pho-mai-meow-fun-cheese-beef.jpg",
+      "price": 50000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 5,
+      "id": 14,
+      "name": "Snack bánh thưởng cho mèo CIAO Chicken, Salmon & Shrimp vị thịt gà, cá hồi và tôm",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/05/snack-banh-thuong-cho-meo-ciao-chicken-salmon-shrimp-vi-thit-ga-ca-hoi-va-tom.jpg",
+      "price": 35000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 5,
+      "id": 15,
+      "name": "Bánh thưởng cho mèo vị cá biển MEOW FUN Sea-fish",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-bien-meow-fun-sea-fish.jpg",
+      "price": 50000,
+      "rating": 4.5
+    },
+    {
+      "categoryId": 5,
+      "id": 16,
+      "name": "Bánh thưởng cho mèo vị bạc hà MEOW FUN Peppermint Cod",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-bac-ha-meow-fun-peppermint-cod.jpg",
+      "price": 50000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 5,
+      "id": 17,
+      "name": "Bánh thưởng cho mèo vị cá hồi và phô mai MEOW FUN Cheese Salmon",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-hoi-va-pho-mai-meow-fun-cheese-salmon.jpg",
+      "price": 50000,
+      "rating": 4.9
+    },
+    {
+      "categoryId": 5,
+      "id": 18,
+      "name": "Bánh thưởng cho mèo vị cá MEOW FUN Grunion",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-meow-fun-grunion.jpg",
+      "price": 50000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 5,
+      "id": 19,
+      "name": "Bánh thưởng cho mèo vị thịt gà MUO MUO Chicken Flavor",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/11/Banh-thuong-cho-meo-vi-thit-ga-MUO-MUO-Chicken-Flavor.jpg",
+      "price": 50000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 5,
+      "id": 20,
+      "name": "Bánh thưởng cho mèo vị tôm MUO MUO Shrimp Flavor",
+      "img": "https://www.petmart.vn/wp-content/uploads/2020/11/Banh-thuong-cho-meo-vi-tom-MUO-MUO-shirmp-flavor.jpg",
+      "price": 50000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 5,
+      "id": 21,
+      "name": "Bánh thưởng cho mèo vị cá hồi VEGEBRAND Orgo Diced Salmon Cat Treats",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-hoi-vegebrand-orgo-diced-salmon-cat-treats.jpg",
+      "price": 50000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 5,
+      "id": 22,
+      "name": "Bánh thưởng cho mèo vị tôm và phô mai VEGEBRAND Orgo Shrimp & Cheese Crisp Sandwich",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-tom-va-pho-mai-vegebrand-orgo-shrimp-cheese-crisp-sandwich.jpg",
+      "price": 50000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 5,
+      "id": 23,
+      "name": "Snack bánh thưởng cho mèo con vị thịt bò GIMCAT Nutri Pockets Junior Mix Treats",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/snack-banh-thuong-cho-meo-con-vi-thit-bo-gimcat-nutri-pockets-junior-mix-treats.jpg",
+      "price": 75000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 5,
+      "id": 24,
+      "name": "Snack bánh thưởng cho mèo vị cỏ bạc hà GIMCAT Nutri Pockets Catnip Treats",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/snack-banh-thuong-cho-meo-vi-co-bac-ha-gimcat-nutri-pockets-catnip-treats.jpg",
+      "price": 75000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 5,
+      "id": 25,
+      "name": "Snack bánh thưởng cho mèo vị thịt vịt GIMCAT Nutri Pockets Duck Treats",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/snack-banh-thuong-cho-meo-vi-thit-vit-gimcat-nutri-pockets-duck-treat.jpg",
+      "price": 75000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 6,
+      "id": 1,
+      "name": "Xúc xích cho mèo vị phô mai MEOWOW Mozzarella & Taurine Stick",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-pho-mai-bowwow-mozzarella-taurine-stick-400x400.jpg",
+      "price": 65000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 6,
+      "id": 2,
+      "name": "Xúc xích cho mèo vị cá biển BIOLINE Cat Cod Sausage",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-ca-bien-bioline-cat-cod-sausage2-400x400.jpg",
+      "price": 70000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 6,
+      "id": 3,
+      "name": "Xúc xích cho mèo vị cá ngừ hun khói MEOWOW Smoked Tuna Meat Stick",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-ca-ngu-hun-khoi-bowwow-smoked-tuna-meat-stick-400x400.jpg",
+      "price": 65000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 6,
+      "id": 4,
+      "name": "Xúc xích cho mèo vị cá hồi hun khói MEOWOW Smoked Salmon Meat Stick",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/05/xuc-xich-cho-meo-vi-ca-hoi-hun-khoi-meowow-smoked-salmon-meat-stick.jpg",
+      "price": 65000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 6,
+      "id": 5,
+      "name": "Xúc xích cho chó vị phô mai BOWWOW Cheese Sausage",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-cho-vi-pho-mai-bowwow-cheese-sausage.jpg",
+      "price": 65000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 7,
+      "id": 1,
+      "name": "Gel dinh dưỡng cho mèo BIOLINE Integrated Nutrition Supplements Gel",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/04/gel-dinh-duong-cho-meo-bioline-nutrition-supplement-gel-400x400.jpg",
+      "price": 170000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 7,
+      "id": 2,
+      "name": "Bột dinh dưỡng Canxi cho chó mèo PAW Chondroitin Calcium Powder",
+      "img": "https://www.petmart.vn/wp-content/uploads/2017/09/bot-dinh-duong-canxi-cho-cho-meo-paw-chondroitin-calcium-powder-400x400.jpg",
+      "price": 230000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 7,
+      "id": 3,
+      "name": "Gel dinh dưỡng cho mèo con GIMCAT Kitten Paste",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/gel-dinh-duong-cho-meo-con-gimcat-kitten-paste.jpg",
+      "price": 200000,
+      "rating": 4.9
+    },
+    {
+      "categoryId": 7,
+      "id": 4,
+      "name": "Gel dinh dưỡng cho mèo hỗ trợ miễn dịch GIMCAT Multi-Vitamin Paste",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/gel-dinh-duong-cho-meo-ho-tro-mien-dich-gimcat-multi-vitamin-paste.jpg",
+      "price": 190000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 7,
+      "id": 5,
+      "name": "Gel dinh dưỡng cho mèo trị tiêu búi lông GIMCAT Malt-Soft Extra",
+      "img": "https://www.petmart.vn/wp-content/uploads/2023/04/gel-dinh-duong-cho-meo-tri-tieu-bui-long-gimcat-malt-soft-extra.jpg",
+      "price": 190000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 8,
+      "id": 1,
+      "name": "Catnip cho mèo dạng khô BIOLINE Catnip Invigorating",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/catnip-cho-meo-dang-kho-bioline-catnip-invigorating-400x400.jpg",
+      "price": 40000,
+      "rating": 4.6
+    },
+    {
+      "categoryId": 8,
+      "id": 2,
+      "name": "Hạt giống trồng cỏ tươi cho mèo BIOLINE Cat Grass Kit",
+      "img": "https://www.petmart.vn/wp-content/uploads/2016/04/hat-giong-trong-co-tuoi-cho-meo-bioline-cat-grass-kit4-400x400.jpg",
+      "price": 120000,
+      "rating": 4.7
+    },
+    {
+      "categoryId": 8,
+      "id": 3,
+      "name": "Catnip cho mèo dạng que BIOLINE Catnip Dental Stick",
+      "img": "https://www.petmart.vn/wp-content/uploads/2019/05/catnip-cho-meo-bioline-catnip-dental-stick-400x400.jpg",
+      "price": 50000,
+      "rating": 4.5
+    },
+    {
+      "categoryId": 8,
+      "id": 4,
+      "name": "Hạt giống trồng cỏ tươi cho mèo BIOLINE Cat Grass Kit",
+      "img": "https://www.petmart.vn/wp-content/uploads/2016/04/hat-giong-trong-co-tuoi-cho-meo-bioline-cat-grass-kit4-400x400.jpg",
+      "price": 120000,
+      "rating": 4.8
+    },
+    {
+      "categoryId": 8,
+      "id": 5,
+      "name": "Catnip cho mèo dạng khô BIOLINE Catnip Invigorating",
+      "img": "https://www.petmart.vn/wp-content/uploads/2021/06/catnip-cho-meo-dang-kho-bioline-catnip-invigorating-400x400.jpg",
+      "price": 40000,
+      "rating": 4.7
+    },
+    {
+      "createdAt": 1733043341259,
+      "id": 26
+    },
+    {
+      "createdAt": 1733043363545,
+      "id": 27
+    },
+    {
+      "createdAt": 1733043382712,
+      "id": 28
     }
-    ,
-      {
-        "categoryId": 2,
-        "id": 1,
-        "name": "Pate cho mèo vị cá ngừ nguyên chất CAT SEA FISH Pure Tuna Meat",
-        "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-ngu-nguyen-chat-cat-sea-fish-pure-tuna-meat-400x400.jpg",
-        "price": 30.000,
-        "rating": 4.5
-      },
-      {
-        "categoryId": 2,
-        "id": 2,
-        "name": "Pate cho mèo vị nước sốt cá ngừ WHISKAS Tuna Flavour Sauce",
-        "img": "https://www.petmart.vn/wp-content/uploads/2013/05/pate-cho-meo-vi-nuoc-sot-ca-ngu-whiskas-tuna-flavour-sauce1-400x400.jpg",
-        "price": 25.000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 3,
-        "name": "Pate cho mèo mẹ và mèo con CATIDEA Mother & Baby Cat",
-        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/pate-cho-meo-me-va-meo-con-catidea-mother-baby-cat.jpg",
-        "price": 35.000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 4,
-        "name": "Pate cho mèo vị cá ngừ thanh cua CAT SEA FISH Tuna Surimi",
-        "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-ngu-thit-cua-cat-sea-fish-tuna-surimi.jpg",
-        "price": 30.000,
-        "rating": 4.8
-      },
-      {
-        "categoryId": 2,
-        "id": 5,
-        "name": "Pate cho mèo CIAO Tuna & Whitebait vị cá ngừ và cá chạch trắng",
-        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/pate-cho-meo-ciao-tuna-whitebait-ca-ngu-va-ca-chach-trang.jpg",
-        "price": 27000,
-        "rating": 4.4
-      },
-      {
-        "categoryId": 2,
-        "id": 6,
-        "name": "Pate cho mèo vị cá ngừ cá thu CAT SEA FISH Tuna Mackerel",
-        "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-ngu-ca-thu-cat-sea-fish-tuna-mackerel.jpg",
-        "price": 30.000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 7,
-        "name": "Pate cho mèo vị cá ngừ cá cơm CAT SEA FISH Tuna Anchovy",
-        "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-com-cat-sea-fish-tuna-anchovy.jpg",
-        "price": 30.000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 8,
-        "name": "Pate cho mèo CIAO Tuna & Salmon vị cá ngừ và cá hồi",
-        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/pate-cho-meo-ciao-tuna-salmon-vi-ca-ngu-va-ca-hoi.jpg",
-        "price": 20.000,
-        "rating": 4.5
-      },
-      {
-        "categoryId": 2,
-        "id": 9,
-        "name": "Pate cho mèo vị cá ngừ trộn thịt cua IRIS OHYAMA Tuna Crab",
-        "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ca-ngu-tron-thit-cua-iris-tuna-crab.jpg",
-        "price": 35.000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 10,
-        "name": "Sốt pate cho mèo CIAO vị cá ngừ nướng và sò điệp",
-        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sot-pate-cho-meo-ciao-vi-ca-ngu-nuong-va-so-diep.jpg",
-        "price": 20.000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 11,
-        "name": "Pate cho mèo vị gà và cá ngừ IRIS OHYAMA Delicacy Tuna Chicken",
-        "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ga-va-ca-ngu-iris-delicacy-tuna-chicken.jpg",
-        "price": 35.000,
-        "rating": 4.9
-      },
-      {
-        "categoryId": 2,
-        "id": 12,
-        "name": "Pate cho mèo vị cá ngừ IRIS OHYAMA Delicacy Tuna Bonito Fish",
-        "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ca-ngu-iris-delicacy.jpg",
-        "price": 35.000,
-        "rating": 4.8
-      },
-      {
-        "categoryId": 2,
-        "id": 13,
-        "name": "Nước sốt pate cho mèo CIAO vị ức gà và thanh cua",
-        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/nuoc-sot-pate-cho-meo-ciao-vi-uc-ga-va-thanh-cua.jpg",
-        "price": 35.000,
-        "rating": 4.9
-      },
-      {
-        "categoryId": 2,
-        "id": 14,
-        "name": "Pate cho mèo vị cá ngừ trộn thịt gà IRIS OHYAMA Tuna Chicken",
-        "img": "https://www.petmart.vn/wp-content/uploads/2019/04/pate-cho-meo-vi-ca-ngu-tron-thit-ga-iris-tuna-chicken.jpg",
-        "price": 35.000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 15,
-        "name": "Thịt ức gà nướng sốt canh gà cho mèo CIAO Chicken Broth",
-        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/thit-uc-ga-nuong-sot-canh-ga-cho-meo-ciao-chicken-broth.jpg",
-        "price": 30.000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 16,
-        "name": "Nước sốt pate cho mèo CIAO vị ức gà & sò điệp",
-        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/nuoc-sot-pate-cho-meo-ciao-vi-uc-ga-so-diep-400x400.jpg",
-        "price": 35.000,
-        "rating": 4.8
-      },
-      {
-        "categoryId": 2,
-        "id": 17,
-        "name": "Nước sốt pate cho mèo CIAO vị cá ngừ và mực biển",
-        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/nuoc-sot-pate-cho-meo-ciao-vi-ca-ngu-va-muc-bien.jpg",
-        "price": 35.000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 18,
-        "name": "Pate cho mèo vị cá ngừ và thịt gà IRIS OHYAMA Tuna Chicken",
-        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/pate-cho-meo-vi-ca-ngu-va-thit-ga-iris-tuna-chicken.jpg",
-        "price": 25.000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 19,
-        "name": "Sốt pate cho mèo CIAO vị cá ngừ nướng, thanh sò điệp và bột cá ngừ",
-        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sot-pate-cho-meo-ciao-vi-ca-ngu-nuong-thanh-so-diep-va-bot-ca-ngu.jpg",
-        "price": 20.000,
-        "rating": 4.5
-      },
-      {
-        "categoryId": 2,
-        "id": 20,
-        "name": "Thịt ức gà nướng sốt sò điệp cho mèo CIAO Scallop",
-        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/thit-uc-ga-nuong-sot-so-diep-cho-meo-ciao-scallop.jpg",
-        "price": 30.000,
-        "rating": 4.6
-      },
-      {
-        "categoryId": 2,
-        "id": 21,
-        "name": "Pate cho mèo vị cá ngừ IRIS OHYAMA Tuna",
-        "img": "https://www.petmart.vn/wp-content/uploads/2020/12/pate-cho-meo-vi-ca-ngu-iris-tuna.jpg",
-        "price": 55.000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 22,
-        "name": "Thịt cá chép nướng sốt sò điệp CIAO cho mèo",
-        "img": "https://www.petmart.vn/wp-content/uploads/2021/05/thit-ca-chep-nuong-sot-so-diep-ciao-cho-meo.jpg",
-        "price": 30.000,
-        "rating": 4.8
-      },
-      {
-        "categoryId": 2,
-        "id": 23,
-        "name": "Pate cho mèo vị gà, cá ngừ và cá bào CIAO Chicken, Tuna & Bonito Flakes",
-        "img": "https://www.petmart.vn/wp-content/uploads/2021/06/pate-cho-meo-vi-ga-ca-ngu-va-ca-bao-ciao-chicken-tuna-bonito-flakes-400x400.jpg",
-        "price": 35.000,
-        "rating": 4.7
-      },
-      {
-        "categoryId": 2,
-        "id": 24,
-        "name": "Pate cho mèo vị gà, cá ngừ và sò CIAO Chicken, Tuna & Scallop",
-        "img": "https://www.petmart.vn/wp-content/uploads/2021/06/pate-cho-meo-vi-gan-ca-ngu-va-so-ciao-chicken-tuna-scallop.jpg",
-        "price": 35.000,
-        "rating": 4.5
-      },
-      {
-        "categoryId": 2,
-        "id": 25,
-        "name": "Pate cho mèo con vị thịt gà PURINA PRO PLAN Kitten Chicken Jelly",
-        "img": "https://www.petmart.vn/wp-content/uploads/2023/08/pate-cho-meo-con-vi-thit-ga-purina-pro-plan-kitten-chicken-jelly2.jpg",
-        "price": 45.000,
-        "rating": 4.7
-      },
-      
-      
-        {
-          "categoryId": 3,
-          "id": 1,
-          "name": "Súp thưởng cho mèo CIAO Hairball Control vị thịt gà tiêu búi lông",
-          "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-hairball-control-tieu-bui-long-400x400.jpg",
-          "price": 40.000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 2,
-          "name": "Soup cho mèo CIAO Grilled Tuna vị cá ngừ nướng",
-          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/soup-cho-meo-ciao-grilled-tuna-vi-ca-ngu-nuong-400x401.jpg",
-          "price": 50000,
-          "rating": 4.6
-        },
-        {
-          "categoryId": 3,
-          "id": 3,
-          "name": "Soup cho mèo CIAO Scallop & Chicken vị sò điệp và thịt gà",
-          "img": "https://www.petmart.vn/wp-content/uploads/2021/06/soup-cho-meo-ciao-scallop-chicken-vi-so-diep-va-thit-ga-400x400.jpg",
-          "price": 25.000,
-          "rating": 4.8
-        },
-        {
-          "categoryId": 3,
-          "id": 4,
-          "name": "Soup cho mèo CIAO Tuna, Whitebait & Chicken vị cá ngừ, cá mồi và gà",
-          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/soup-cho-meo-ciao-tuna-whitebait-chicken-vi-ca-ngu-ca-moi-va-ga.jpg",
-          "price": 25.000,
-          "rating": 4.5
-        },
-        {
-          "categoryId": 3,
-          "id": 5,
-          "name": "Súp thưởng cho mèo CIAO Tuna vị cá ngừ đại dương",
-          "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-tuna-vi-ca-ngu-dai-duong.jpg",
-          "price": 175.000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 6,
-          "name": "Súp thưởng cho mèo CIAO Tuna vị cá ngừ biển",
-          "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-tuna-vi-ca-ngu.jpg",
-          "price": 47.000,
-          "rating": 4.8
-        },
-        {
-          "categoryId": 3,
-          "id": 7,
-          "name": "Súp thưởng cho mèo CIAO Scallop vị ngao sò",
-          "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-scallop-vi-ngao-so.jpg",
-          "price": 40.000,
-          "rating": 4.6
-        },
-        {
-          "categoryId": 3,
-          "id": 8,
-          "name": "Súp thưởng cho mèo vị cá ngừ hải sản CIAO Tuna & Seafood ",
-          "img": "https://www.petmart.vn/wp-content/uploads/2021/06/sup-thuong-cho-meo-vi-ca-ngu-hai-san-ciao-tuna-seafood.jpg",
-          "price": 175.000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 9,
-          "name": "Súp thưởng cho mèo vị cá hồi IRIS OHYAMA Salmon Soup",
-          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ca-hoi-iris-salmon-soup8.jpg",
-          "price": 55.000,
-          "rating": 4.8
-        },
-        {
-          "categoryId": 3,
-          "id": 10,
-          "name": "Súp thưởng cho mèo vị cá ngừ IRIS OHYAMA Tuna Soup",
-          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ca-ngu-iris-tuna-soup5.jpg",
-          "price": 55.000,
-          "rating": 4.6
-        },
-        {
-          "categoryId": 3,
-          "id": 11,
-          "name": "Súp thưởng cho mèo CIAO Bonito & Scallop vị cá bào và ngao sò",
-          "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-bonito-scallop-vi-ca-ngu-va-ngao-so.jpg",
-          "price": 175.000,
-          "rating": 4.9
-        },
-        {
-          "categoryId": 3,
-          "id": 12,
-          "name": "Súp thưởng cho mèo vị cá thu IRIS OHYAMA Bonito Soup",
-          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ca-thu-iris-bonito-soup.jpg",
-          "price": 55.000,
-          "rating": 4.9
-        },
-        {
-          "categoryId": 3,
-          "id": 13,
-          "name": "Súp thưởng cho mèo vị cá ngừ CIAO Tuna Recipe",
-          "img": "https://www.petmart.vn/wp-content/uploads/2021/06/sup-thuong-cho-meo-vi-ca-ngu-ciao-tuna-recipe.jpg",
-          "price": 47.000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 14,
-          "name": "Súp thưởng cho mèo vị thịt gà BIOLINE Chicken Flavor",
-          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-thit-ga-bioline-chicken-flavor.jpg",
-          "price": 65.000,
-          "rating": 4.8
-        },
-        {
-          "categoryId": 3,
-          "id": 15,
-          "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Tuna Salmon",
-          "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-tuna-salmon.jpg",
-          "price": 50.000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 16,
-          "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Tuna Hairball",
-          "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-tuna-hairball.jpg",
-          "price": 40.000,
-          "rating": 4.9
-        },
-        {
-          "categoryId": 3,
-          "id": 17,
-          "name": "Súp thưởng cho mèo vị cá ngừ dầu cá BIOLINE Tuna Fish Oil",
-          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-dau-ca-bioline-tuna-fish-oil.jpg",
-          "price": 45.000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 18,
-          "name": "Súp thưởng cho mèo vị cá ngừ cá hồi BIOLINE Tuna Salmon",
-          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-ca-hoi-bioline-tuna-salmon.jpg",
-          "price": 60.000,
-          "rating": 4.8
-        },
-        {
-          "categoryId": 3,
-          "id": 19,
-          "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Chicken Breast Shrimp",
-          "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-chicken-breast-shrimp.jpg",
-          "price": 40.000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 20,
-          "name": "Súp thưởng cho mèo vị cá ngừ sò điệp BIOLINE Tuna Scallop",
-          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-so-diep-bioline-tuna-scallop.jpg",
-          "price": 50.000,
-          "rating": 4.6
-        },
-        {
-          "categoryId": 3,
-          "id": 21,
-          "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Tuna Crab Meat",
-          "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-tuna-crab-meat.jpg",
-          "price": 40.000,
-          "rating": 4.7
-        },
-        {
-          "categoryId": 3,
-          "id": 22,
-          "name": "Súp thưởng cho mèo MEOWOW Chupa Creamy Salmon Seabream",
-          "img": "https://www.petmart.vn/wp-content/uploads/2023/05/sup-thuong-cho-meo-meowow-chupa-creamy-salmon-seabream.jpg",
-          "price": 40.000,
-          "rating": 4.6
-        },
-        {
-          "categoryId": 3,
-          "id": 23,
-          "name": "Súp thưởng cho mèo vị cá ngừ vây vàng BIOLINE Yellowfin Tuna",
-          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-vay-vang-bioline-yellowfin-tuna.jpg",
-          "price": 49000,
-          "rating": 4.6
-        },
-        {
-          "categoryId": 3,
-          "id": 24,
-          "name": "Súp thưởng cho mèo vị gà và tôm IRIS OHYAMA Chicken Shrimp Soup",
-          "img": "https://www.petmart.vn/wp-content/uploads/2020/12/sup-thuong-cho-meo-vi-ga-va-tom-iris-chicken-shrimp-soup1.jpg",
-          "price": 55.000,
-          "rating": 4.5
-        },
-        {
-          "categoryId": 3,
-          "id": 25,
-          "name": "Súp thưởng cho mèo vị cá ngừ vây vàng sò điệp BIOLINE Yellowfin Tuna Scallop",
-          "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sup-thuong-cho-meo-vi-ca-ngu-vay-vang-so-diep-bioline-yellowfin-tuna-scallop.jpg",
-          "price": 55.000,
-          "rating": 4.7
-        },
-        
-        
-          {
-            "categoryId": 4,
-            "id": 1,
-            "name": "Bình sữa cho chó mèo sơ sinh BOBO Pet Milk Bottle",
-            "img": "https://www.petmart.vn/wp-content/uploads/2013/07/binh-sua-cho-cho-meo-so-sinh-bobo-pet-milk-bottle-400x400.jpg",
-            "price": 50.000,
-            "rating": 4.6
-          },
-          {
-            "categoryId": 4,
-            "id": 2,
-            "name": "Sữa bột cho mèo con BBN Kitten Milk",
-            "img": "https://www.petmart.vn/wp-content/uploads/2019/04/Wholesale-natural-pet-new-products-380g-milk-400x400.jpg",
-            "price": 320.000,
-            "rating": 4.7
-          },
-          {
-            "categoryId": 4,
-            "id": 3,
-            "name": "Sữa tươi cho mèo ít béo DR HOLI Cat Milk",
-            "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-meo-it-beo-dr-holi-cat-milk-400x400.jpg",
-            "price": 90.000,
-            "rating": 4.8
-          },
-          {
-            "categoryId": 4,
-            "id": 4,
-            "name": "Sữa tươi cho mèo con ít béo DR HOLI Cat Kitten Milk",
-            "img": "https://www.petmart.vn/wp-content/uploads/2021/12/sua-tuoi-cho-meo-con-it-beo-dr-holi-cat-kitten-milk.jpg",
-            "price": 90.000,
-            "rating": 4.7
-          },
-          {
-            "categoryId": 4,
-            "id": 5,
-            "name": "Sữa tươi cho chó mèo ít béo DR HOLI Pet Milk Vanilla",
-            "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-cho-meo-it-beo-dr-holi-pet-milk-vanilla.jpg",
-            "price": 90.000,
-            "rating": 4.5
-          },
-          {
-            "categoryId": 4,
-            "id": 6,
-            "name": "Sữa cho chó mèo tươi ngon uống liền BIOLINE Pet Milk",
-            "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sua-cho-cho-meo-tuoi-ngon-uong-lien-bioline-pet-milk.jpg",
-            "price": 60.000,
-            "rating": 4.6
-          },
-          {
-            "categoryId": 4,
-            "id": 7,
-            "name": "Sữa tươi cho chó mèo ít béo DR HOLI Pet Milk Red Ginseng",
-            "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-cho-meo-it-beo-dr-holi-pet-milk-red-ginseng.jpg",
-            "price": 80.000,
-            "rating": 4.8
-          },
-          {
-            "categoryId": 4,
-            "id": 8,
-            "name": "Bình sữa cho chó mèo con sơ sinh bú PAW Pet Silicone Milk Bottle",
-            "img": "https://www.petmart.vn/wp-content/uploads/2023/05/binh-sua-cho-cho-meo-con-so-sinh-bu-paw-pet-silicone-milk-bottle.jpg",
-            "price": 50.000,
-            "rating": 4.9
-          },
-          {
-            "categoryId": 4,
-            "id": 9,
-            "name": "Sữa tươi cho chó mèo ít béo DR HOLI Pet Milk Mango",
-            "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-cho-meo-it-beo-dr-holi-pet-milk-mango.jpg",
-            "price": 90.000,
-            "rating": 4.7
-          },
-          {
-            "categoryId": 4,
-            "id": 10,
-            "name": "Sữa bột cho chó mèo con, chó mèo mẹ đang mang thai BIOLINE Goat Milk",
-            "img": "https://www.petmart.vn/wp-content/uploads/2023/04/sua-bot-cho-cho-meo-con-bioline-goat-milk.jpg",
-            "price": 320.000,
-            "rating": 4.6
-          },
-          
-            {
-              "categoryId": 5,
-              "id": 1,
-              "name": "Bánh thưởng cho mèo vị cá hồi JERHIGH Jinny Salmon",
-              "img": "https://www.petmart.vn/wp-content/uploads/2016/07/banh-thuong-cho-meo-vi-ca-hoi-jerhigh-jinny-salmon-flavored-400x400.jpg",
-              "price": 45.000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 2,
-              "name": "Bánh thưởng cho mèo vị cá ngừ JERHIGH Jinny Tuna",
-              "img": "https://www.petmart.vn/wp-content/uploads/2016/07/banh-thuong-cho-meo-vi-ca-ngu-jerhigh-jinny-tuna-flavored-400x400.jpg",
-              "price": 45.000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 3,
-              "name": "Bánh thưởng cho mèo làm sạch răng MEOW FUN Teeth Cleaning",
-              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-lam-sach-rang-meow-fun-teeth-cleaning-400x400.jpg",
-              "price": 50.000,
-              "rating": 4.6
-            },
-            {
-              "categoryId": 5,
-              "id": 4,
-              "name": "Bánh thưởng cho mèo vị thịt gà JERHIGH Jinny Chicken",
-              "img": "https://www.petmart.vn/wp-content/uploads/2016/07/snack-cho-meo-jerhigh-jinny-chicken-2018.jpg",
-              "price": 45.000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 5,
-              "name": "Bánh thưởng cho mèo CIAO vị cá ngừ và thịt gà nướng",
-              "img": "https://www.petmart.vn/wp-content/uploads/2021/06/banh-thuong-cho-meo-ciao-vi-ca-ngu-va-thit-ga.jpg",
-              "price": 55.000,
-              "rating": 4.6
-            },
-            {
-              "categoryId": 5,
-              "id": 6,
-              "name": "Bánh thưởng cho mèo vị thập cẩm JERHIGH Jinny Gourmet",
-              "img": "https://www.petmart.vn/wp-content/uploads/2016/07/snack-cho-meo-jerhigh-jinny-gourmet-2018.jpg",
-              "price": 45.000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 7,
-              "name": "Snack bánh thưởng cho mèo CIAO Seafood Scallop vị hải sản sò điệp",
-              "img": "https://www.petmart.vn/wp-content/uploads/2021/05/snack-banh-thuong-cho-meo-ciao-seafood-scallop-vi-hai-san-so-diep.jpg",
-              "price": 35.000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 8,
-              "name": "Bánh thưởng cho mèo vị hải sản JERHIGH Jinny Seafood",
-              "img": "https://www.petmart.vn/wp-content/uploads/2016/07/snack-cho-meo-jerhigh-jinny-seafood-2018.jpg",
-              "price": 45.000,
-              "rating": 4.6
-            },
-            {
-              "categoryId": 5,
-              "id": 9,
-              "name": "Bánh thưởng cho mèo vị cá ngừ VEGEBRAND Orgo Cat Treats Tuna Fish",
-              "img": "https://www.petmart.vn/wp-content/uploads/2014/10/banh-thuong-cho-meo-vi-ca-ngu-vegebrand-orgo-cat-treats-tuna-fish.jpg",
-              "price": 50.000,
-              "rating": 4.5
-            },
-            {
-              "categoryId": 5,
-              "id": 10,
-              "name": "Bánh thưởng cho mèo Anh lông ngắn MEOW FUN Oral Care British Shorthair",
-              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-anh-long-ngan-meow-fun-oral-care-british-shorthair.jpg",
-              "price": 50.000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 11,
-              "name": "Bánh thưởng cho mèo CIAO vị thịt ức gà",
-              "img": "https://www.petmart.vn/wp-content/uploads/2021/06/banh-thuong-cho-meo-ciao-vi-thit-uc-ga.jpg",
-              "price": 55.000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 12,
-              "name": "Bánh thưởng cho mèo vị gan & thịt VEGEBRAND Orgo Cat Treats Poultry Liver",
-              "img": "https://www.petmart.vn/wp-content/uploads/2014/10/banh-thuong-cho-meo-vi-gan-thit-vegebrand-orgo-cat-treats-poultry-liver.jpg",
-              "price": 50.000,
-              "rating": 4.9
-            },
-            {
-              "categoryId": 5,
-              "id": 13,
-              "name": "Bánh thưởng cho mèo vị thịt bò và phô mai MEOW FUN Cheese Beef",
-              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-thit-bo-va-pho-mai-meow-fun-cheese-beef.jpg",
-              "price": 50.000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 14,
-              "name": "Snack bánh thưởng cho mèo CIAO Chicken, Salmon & Shrimp vị thịt gà, cá hồi và tôm",
-              "img": "https://www.petmart.vn/wp-content/uploads/2021/05/snack-banh-thuong-cho-meo-ciao-chicken-salmon-shrimp-vi-thit-ga-ca-hoi-va-tom.jpg",
-              "price": 35.000,
-              "rating": 4.6
-            },
-            {
-              "categoryId": 5,
-              "id": 15,
-              "name": "Bánh thưởng cho mèo vị cá biển MEOW FUN Sea-fish",
-              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-bien-meow-fun-sea-fish.jpg",
-              "price": 50.000,
-              "rating": 4.5
-            },
-            {
-              "categoryId": 5,
-              "id": 16,
-              "name": "Bánh thưởng cho mèo vị bạc hà MEOW FUN Peppermint Cod",
-              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-bac-ha-meow-fun-peppermint-cod.jpg",
-              "price": 50.000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 17,
-              "name": "Bánh thưởng cho mèo vị cá hồi và phô mai MEOW FUN Cheese Salmon",
-              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-hoi-va-pho-mai-meow-fun-cheese-salmon.jpg",
-              "price": 50.000,
-              "rating": 4.9
-            },
-            {
-              "categoryId": 5,
-              "id": 18,
-              "name": "Bánh thưởng cho mèo vị cá MEOW FUN Grunion",
-              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-meow-fun-grunion.jpg",
-              "price": 50.000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 19,
-              "name": "Bánh thưởng cho mèo vị thịt gà MUO MUO Chicken Flavor",
-              "img": "https://www.petmart.vn/wp-content/uploads/2020/11/Banh-thuong-cho-meo-vi-thit-ga-MUO-MUO-Chicken-Flavor.jpg",
-              "price": 50.000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 20,
-              "name": "Bánh thưởng cho mèo vị tôm MUO MUO Shrimp Flavor",
-              "img": "https://www.petmart.vn/wp-content/uploads/2020/11/Banh-thuong-cho-meo-vi-tom-MUO-MUO-shirmp-flavor.jpg",
-              "price": 50.000,
-              "rating": 4.6
-            },
-            {
-              "categoryId": 5,
-              "id": 21,
-              "name": "Bánh thưởng cho mèo vị cá hồi VEGEBRAND Orgo Diced Salmon Cat Treats",
-              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-ca-hoi-vegebrand-orgo-diced-salmon-cat-treats.jpg",
-              "price": 50.000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 22,
-              "name": "Bánh thưởng cho mèo vị tôm và phô mai VEGEBRAND Orgo Shrimp & Cheese Crisp Sandwich",
-              "img": "https://www.petmart.vn/wp-content/uploads/2019/04/banh-thuong-cho-meo-vi-tom-va-pho-mai-vegebrand-orgo-shrimp-cheese-crisp-sandwich.jpg",
-              "price": 50.000,
-              "rating": 4.8
-            },
-            {
-              "categoryId": 5,
-              "id": 23,
-              "name": "Snack bánh thưởng cho mèo con vị thịt bò GIMCAT Nutri Pockets Junior Mix Treats",
-              "img": "https://www.petmart.vn/wp-content/uploads/2023/04/snack-banh-thuong-cho-meo-con-vi-thit-bo-gimcat-nutri-pockets-junior-mix-treats.jpg",
-              "price": 75.000,
-              "rating": 4.6
-            },
-            {
-              "categoryId": 5,
-              "id": 24,
-              "name": "Snack bánh thưởng cho mèo vị cỏ bạc hà GIMCAT Nutri Pockets Catnip Treats",
-              "img": "https://www.petmart.vn/wp-content/uploads/2023/04/snack-banh-thuong-cho-meo-vi-co-bac-ha-gimcat-nutri-pockets-catnip-treats.jpg",
-              "price": 75.000,
-              "rating": 4.7
-            },
-            {
-              "categoryId": 5,
-              "id": 25,
-              "name": "Snack bánh thưởng cho mèo vị thịt vịt GIMCAT Nutri Pockets Duck Treats",
-              "img": "https://www.petmart.vn/wp-content/uploads/2023/04/snack-banh-thuong-cho-meo-vi-thit-vit-gimcat-nutri-pockets-duck-treat.jpg",
-              "price": 75.000,
-              "rating": 4.7
-            },
-           
-            
-              {
-                "categoryId": 6,
-                "id": 1,
-                "name": "Xúc xích cho mèo vị phô mai MEOWOW Mozzarella & Taurine Stick",
-                "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-pho-mai-bowwow-mozzarella-taurine-stick-400x400.jpg",
-                "price": 65.000,
-                "rating": 4.6
-              },
-              {
-                "categoryId": 6,
-                "id": 2,
-                "name": "Xúc xích cho mèo vị cá biển BIOLINE Cat Cod Sausage",
-                "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-ca-bien-bioline-cat-cod-sausage2-400x400.jpg",
-                "price": 70.000,
-                "rating": 4.7
-              },
-              {
-                "categoryId": 6,
-                "id": 3,
-                "name": "Xúc xích cho mèo vị cá ngừ hun khói MEOWOW Smoked Tuna Meat Stick",
-                "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-ca-ngu-hun-khoi-bowwow-smoked-tuna-meat-stick-400x400.jpg",
-                "price": 65.000,
-                "rating": 4.8
-              },
-              {
-                "categoryId": 6,
-                "id": 4,
-                "name": "Xúc xích cho mèo vị cá hồi hun khói MEOWOW Smoked Salmon Meat Stick",
-                "img": "https://www.petmart.vn/wp-content/uploads/2023/05/xuc-xich-cho-meo-vi-ca-hoi-hun-khoi-meowow-smoked-salmon-meat-stick.jpg",
-                "price": 65.000,
-                "rating": 4.7
-              },
-              {
-                "categoryId": 6,
-                "id": 5,
-                "name": "Xúc xích cho chó vị phô mai BOWWOW Cheese Sausage",
-                "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-cho-vi-pho-mai-bowwow-cheese-sausage.jpg",
-                "price": 65.000,
-                "rating": 4.8
-              },
-              
-              
-                {
-                  "categoryId": 7,
-                  "id": 1,
-                  "name": "Gel dinh dưỡng cho mèo BIOLINE Integrated Nutrition Supplements Gel",
-                  "img": "https://www.petmart.vn/wp-content/uploads/2019/04/gel-dinh-duong-cho-meo-bioline-nutrition-supplement-gel-400x400.jpg",
-                  "price": 170.000,
-                  "rating": 4.8
-                },
-                {
-                  "categoryId": 7,
-                  "id": 2,
-                  "name": "Bột dinh dưỡng Canxi cho chó mèo PAW Chondroitin Calcium Powder",
-                  "img": "https://www.petmart.vn/wp-content/uploads/2017/09/bot-dinh-duong-canxi-cho-cho-meo-paw-chondroitin-calcium-powder-400x400.jpg",
-                  "price": 230.000,
-                  "rating": 4.7
-                },
-                {
-                  "categoryId": 7,
-                  "id": 3,
-                  "name": "Gel dinh dưỡng cho mèo con GIMCAT Kitten Paste",
-                  "img": "https://www.petmart.vn/wp-content/uploads/2023/04/gel-dinh-duong-cho-meo-con-gimcat-kitten-paste.jpg",
-                  "price": 200.000,
-                  "rating": 4.9
-                },
-                {
-                  "categoryId": 7,
-                  "id": 4,
-                  "name": "Gel dinh dưỡng cho mèo hỗ trợ miễn dịch GIMCAT Multi-Vitamin Paste",
-                  "img": "https://www.petmart.vn/wp-content/uploads/2023/04/gel-dinh-duong-cho-meo-ho-tro-mien-dich-gimcat-multi-vitamin-paste.jpg",
-                  "price": 190.000,
-                  "rating": 4.8
-                },
-                {
-                  "categoryId": 7,
-                  "id": 5,
-                  "name": "Gel dinh dưỡng cho mèo trị tiêu búi lông GIMCAT Malt-Soft Extra",
-                  "img": "https://www.petmart.vn/wp-content/uploads/2023/04/gel-dinh-duong-cho-meo-tri-tieu-bui-long-gimcat-malt-soft-extra.jpg",
-                  "price": 190.000,
-                  "rating": 4.7
-                },
-              
-                
-                  {
-                    "categoryId": 8,
-                    "id": 1,
-                    "name": "Catnip cho mèo dạng khô BIOLINE Catnip Invigorating",
-                    "img": "https://www.petmart.vn/wp-content/uploads/2021/06/catnip-cho-meo-dang-kho-bioline-catnip-invigorating-400x400.jpg",
-                    "price": 40.000,
-                    "rating": 4.6
-                  },
-                  {
-                    "categoryId": 8,
-                    "id": 2,
-                    "name": "Hạt giống trồng cỏ tươi cho mèo BIOLINE Cat Grass Kit",
-                    "img": "https://www.petmart.vn/wp-content/uploads/2016/04/hat-giong-trong-co-tuoi-cho-meo-bioline-cat-grass-kit4-400x400.jpg",
-                    "price": 120.000,
-                    "rating": 4.7
-                  },
-                  {
-                    "categoryId": 8,
-                    "id": 3,
-                    "name": "Catnip cho mèo dạng que BIOLINE Catnip Dental Stick",
-                    "img": "https://www.petmart.vn/wp-content/uploads/2019/05/catnip-cho-meo-bioline-catnip-dental-stick-400x400.jpg",
-                    "price": 50.000,
-                    "rating": 4.5
-                  },
-                  {
-                    "categoryId": 8,
-                    "id": 4,
-                    "name": "Hạt giống trồng cỏ tươi cho mèo BIOLINE Cat Grass Kit",
-                    "img": "https://www.petmart.vn/wp-content/uploads/2016/04/hat-giong-trong-co-tuoi-cho-meo-bioline-cat-grass-kit4-400x400.jpg",
-                    "price": 120.000,
-                    "rating": 4.8
-                  },
-                  {
-                    "categoryId": 8,
-                    "id": 5,
-                    "name": "Catnip cho mèo dạng khô BIOLINE Catnip Invigorating",
-                    "img": "https://www.petmart.vn/wp-content/uploads/2021/06/catnip-cho-meo-dang-kho-bioline-catnip-invigorating-400x400.jpg",
-                    "price": 40.000,
-                    "rating": 4.7
-                  }
-                
-  
-  
-],
-"cart": [],
-"orders": [],
-"users": [
-  
-],
-"page": [
-  {
-    "id": 1,
-    "categoriesId": 1,
-    "name": "Thức ăn cho mèo con ROYAL CANIN Kitten",
-    "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-con-royal-canin-kitten-400x400.jpg",
-    "price": 150000,
-    "rating": 4.7
-  },
-  {
-    "id": 2,
-    "categoriesId": 1,
-    "name": "Thức ăn cho mèo trưởng thành ROYAL CANIN Indoor 27",
-    "img": "https://www.petmart.vn/wp-content/uploads/2021/06/thuc-an-cho-meo-truong-thanh-royal-canin-indoor-27-400x400.jpg",
-    "price": 130000,
-    "rating": 4.5
-  },
-  {
-    "id": 61,
-    "categoriesId": 4,
-    "name": "Sữa bột cho mèo con BBN Kitten Milk",
-    "img": "https://www.petmart.vn/wp-content/uploads/2019/04/Wholesale-natural-pet-new-products-380g-milk-400x400.jpg",
-    "price": 45000,
-    "rating": 4.7
-  },
-  {
-    "id": 62,
-    "categoriesId": 4,
-    "name": "Sữa tươi cho mèo ít béo DR HOLI Cat Milk",
-    "img": "https://www.petmart.vn/wp-content/uploads/2021/04/sua-tuoi-cho-meo-it-beo-dr-holi-cat-milk-400x400.jpg",
-    "price": 40000,
-    "rating": 4.6
-  },
-  {
-    "id": 21,
-    "categoriesId": 2,
-    "name": "Pate cho mèo vị cá ngừ nguyên chất CAT SEA FISH Pure Tuna Meat",
-    "img": "https://www.petmart.vn/wp-content/uploads/2015/12/pate-cho-meo-vi-ca-ngu-nguyen-chat-cat-sea-fish-pure-tuna-meat-400x400.jpg",
-    "price": 50000,
-    "rating": 4.7
-  },
-  {
-    "id": 22,
-    "categoriesId": 2,
-    "name": "Pate cho mèo vị nước sốt cá ngừ WHISKAS Tuna Flavour Sauce",
-    "img": "https://www.petmart.vn/wp-content/uploads/2013/05/pate-cho-meo-vi-nuoc-sot-ca-ngu-whiskas-tuna-flavour-sauce1-400x400.jpg",
-    "price": 45000,
-    "rating": 4.5
-  },
-  {
-    "id": 41,
-    "categoriesId": 3,
-    "name": "Súp thưởng cho mèo CIAO Hairball Control vị thịt gà tiêu búi lông",
-    "img": "https://www.petmart.vn/wp-content/uploads/2021/05/sup-thuong-cho-meo-ciao-hairball-control-tieu-bui-long-400x400.jpg",
-    "price": 25000,
-    "rating": 4.5
-  },
-  {
-    "id": 42,
-    "categoriesId": 3,
-    "name": "Soup cho mèo CIAO Grilled Tuna vị cá ngừ nướng",
-    "img": "https://www.petmart.vn/wp-content/uploads/2020/12/soup-cho-meo-ciao-grilled-tuna-vi-ca-ngu-nuong-400x401.jpg",
-    "price": 23000,
-    "rating": 4.6
-  },
-  {
-    "id": 81,
-    "categoriesId": 7,
-    "name": "Bột dinh dưỡng Canxi cho chó mèo PAW Chondroitin Calcium Powder",
-    "img": "https://www.petmart.vn/wp-content/uploads/2017/09/bot-dinh-duong-canxi-cho-cho-meo-paw-chondroitin-calcium-powder-400x400.jpg",
-    "price": 50000,
-    "rating": 4.8
-  },
-  {
-    "id": 82,
-    "categoriesId": 7,
-    "name": "Gel dinh dưỡng cho mèo BIOLINE Integrated Nutrition Supplements Gel",
-    "img": "https://www.petmart.vn/wp-content/uploads/2019/04/gel-dinh-duong-cho-meo-bioline-nutrition-supplement-gel-400x400.jpg",
-    "price": 53000,
-    "rating": 4.7
-  },
-  {
-    "id": 101,
-    "categoriesId": 5,
-    "name": "Bánh thưởng cho mèo vị cá hồi JERHIGH Jinny Salmon",
-    "img": "https://www.petmart.vn/wp-content/uploads/2016/07/banh-thuong-cho-meo-vi-ca-hoi-jerhigh-jinny-salmon-flavored-400x400.jpg",
-    "price": 35000,
-    "rating": 4.7
-  },
-  {
-    "id": 102,
-    "categoriesId": 5,
-    "name": "Bánh thưởng cho mèo CIAO vị cá ngừ và thịt gà nướng",
-    "img": "https://www.petmart.vn/wp-content/uploads/2021/06/banh-thuong-cho-meo-ciao-vi-ca-ngu-va-thit-ga-400x400.jpg",
-    "price": 40000,
-    "rating": 4.8
-  },
-  {
-    "id": 121,
-    "categoriesId": 6,
-    "name": "Xúc xích cho mèo vị phô mai MEOWOW Mozzarella & Taurine Stick",
-    "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-pho-mai-bowwow-mozzarella-taurine-stick-400x400.jpg",
-    "price": 35000,
-    "rating": 4.7
-  },
-  {
-    "id": 122,
-    "categoriesId": 6,
-    "name": "Xúc xích cho mèo vị cá ngừ hun khói MEOWOW Smoked Tuna Meat Stick",
-    "img": "https://www.petmart.vn/wp-content/uploads/2023/04/xuc-xich-cho-meo-vi-ca-ngu-hun-khoi-bowwow-smoked-tuna-meat-stick-400x400.jpg",
-    "price": 33000,
-    "rating": 4.6
-  },
-  {
-    "id": 141,
-    "categoriesId": 8,
-    "name": "Catnip cho mèo dạng khô BIOLINE Catnip Invigorating",
-    "img": "https://www.petmart.vn/wp-content/uploads/2021/06/catnip-cho-meo-dang-kho-bioline-catnip-invigorating-400x400.jpg",
-    "price": 22000,
-    "rating": 4.6
-  },
-  {
-    "id": 142,
-    "categoriesId": 8,
-    "name": "Catnip cho mèo dạng que BIOLINE Catnip Dental Stick",
-    "img": "https://www.petmart.vn/wp-content/uploads/2019/05/catnip-cho-meo-bioline-catnip-dental-stick-400x400.jpg",
-    "price": 23000,
-    "rating": 4.8
-  }
-]
+  ],
+  "cart": [],
+  "orders": [],
+  "users": []
 }
